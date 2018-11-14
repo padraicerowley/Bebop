@@ -13,7 +13,7 @@ class MyStreamer(TwythonStreamer):
     count=0
     def on_success(self, data):
         if 'text' in data:
-            if (self.tweetCounter < 2000):
+            if (self.tweetCounter < 100):
                 self.writer.addTweet(str(data['text']),str(data['created_at']),str(data['favorite_count']),str(data['retweet_count']))
                 self.tweetCounter += 1
                 self.count+=1

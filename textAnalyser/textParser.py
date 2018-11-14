@@ -23,10 +23,12 @@ class parseWriter():
     def newBlock(self,tweetText,date,fv,rt):
         self.fob.write(str(self.output).encode('utf-8'))
         self.fob.close()
+        print("waiting until next scan time.....................")
+        time.sleep(10800)
         print("new block:" + str(time.ctime()))
         self.blockCount +=1
         self.fob = open(
-            self.found_msg_path + str(time.ctime())+'.json',
+            self.found_msg_path + str(time.ctime().replace(" ", "_").replace(":",""))+'.json',
             'wb')
         self.output = {"tweets": []}
         self.addTweet(tweetText,date,fv,rt)
