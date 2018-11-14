@@ -1,0 +1,1307 @@
+{
+    'tweets': [{
+            'text': 'Il maltempo devasta Venezia: oltre alle opere d’arte danneggiati anche alcuni hotel -  #maltempo #devasta #Venezia:… https://t.co/M4PQnlWvsZ',
+            'language': 'en',
+            'time': 'Tue Oct 30 16:57:04 +0000 2018',
+            'urls': "['https://t.co/M4PQnlWvsZ']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('Il', 'NNP'), ('maltempo', 'NN'), ('devasta', 'NN'), ('Venezia', 'NNP'), (':', ':'), ('oltre', 'NN'), ('alle', 'NN'), ('opere', 'RB'), ('d', 'JJ'), ('’', 'NNP'), ('arte', 'NN'), ('danneggiati', 'NN'), ('anche', 'NN'), ('alcuni', 'JJ'), ('hotel', 'NN'), ('-', ':'), ('#', '#'), ('maltempo', 'JJ'), ('#', '#'), ('devasta', 'JJ'), ('#', '#'), ('Venezia', 'NNP'), (':', ':'), ('…', 'CD'), ('WEBSITE', 'NNP')]"
+    }, {
+            'text': "RT @La_Pampe: L'#AcquaAlta a Venezia non è mai stata rappresentata meglio. #maltempo https://t.co/O4n9qCIY5N",
+            'language': 'en',
+            'time': 'Tue Oct 30 16:57:07 +0000 2018',
+            'urls': "['https://t.co/O4n9qCIY5N']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'La_Pampe\', \'NNP\'), (\':\', \':\'), (\'L\', \'NNP\'), ("\'", \'POS\'), (\'#\', \'#\'), (\'AcquaAlta\', \'NNP\'), (\'a\', \'DT\'), (\'Venezia\', \'NNP\'), (\'non\', \'NN\'), (\'è\', \'NNP\'), (\'mai\', \'NN\'), (\'stata\', \'NN\'), (\'rappresentata\', \'NN\'), (\'meglio\', \'NN\'), (\'.\', \'.\'), (\'#\', \'#\'), (\'maltempo\', \'JJ\'), (\'WEBSITE\', \'NNP\')]'
+    }, {
+            'text': '#venice #veniceitaly #venezia #venetia #sunshine  #tramonto #italy #love @ Venezia, Italia https://t.co/GpFmIROBf9',
+            'language': 'en',
+            'time': 'Tue Oct 30 16:57:10 +0000 2018',
+            'urls': "['https://t.co/GpFmIROBf9']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('#', '#'), ('venice', 'NN'), ('#', '#'), ('veniceitaly', 'JJ'), ('#', '#'), ('venezia', 'JJ'), ('#', '#'), ('venetia', 'JJ'), ('#', '#'), ('sunshine', 'JJ'), ('#', '#'), ('tramonto', 'NN'), ('#', '#'), ('italy', 'JJ'), ('#', '#'), ('love', 'VB'), ('@', 'NNP'), ('Venezia', 'NNP'), (',', ','), ('Italia', 'NNP'), ('WEBSITE', 'NNP')]"
+    }, {
+            'text': "RT @Lettera43: A Venezia l'acqua è entrata nella Basilica danneggiandola. Barche distrutte a Rapallo dopo la mareggiata. Undici vittime in…",
+            'language': 'en',
+            'time': 'Tue Oct 30 16:57:22 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'Lettera43\', \'NNP\'), (\':\', \':\'), (\'A\', \'DT\'), (\'Venezia\', \'NNP\'), ("l\'acqua", \'NN\'), (\'è\', \'NNP\'), (\'entrata\', \'VBZ\'), (\'nella\', \'NN\'), (\'Basilica\', \'NNP\'), (\'danneggiandola\', \'NN\'), (\'.\', \'.\'), (\'Barche\', \'NNP\'), (\'distrutte\', \'VBD\'), (\'a\', \'DT\'), (\'Rapallo\', \'NNP\'), (\'dopo\', \'NN\'), (\'la\', \'NN\'), (\'mareggiata\', \'NN\'), (\'.\', \'.\'), (\'Undici\', \'NNP\'), (\'vittime\', \'NN\'), (\'in…\', \'NN\')]'
+    }, {
+            'text': 'E il Mose che doveva salvare Venezia? «Partirà nel 2021, salvo imprevisti» https://t.co/1Rjn9MGoIB\n@UNFCC\n@ClimateNews',
+            'language': 'en',
+            'time': 'Tue Oct 30 16:57:24 +0000 2018',
+            'urls': "['https://t.co/1Rjn9MGoIB']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('E', 'NNP'), ('il', 'NN'), ('Mose', 'NNP'), ('che', 'NN'), ('doveva', 'NN'), ('salvare', 'NN'), ('Venezia', 'NNP'), ('?', '.'), ('«', 'NNP'), ('Partirà', 'NNP'), ('nel', 'NN'), ('2021', 'CD'), (',', ','), ('salvo', 'VBD'), ('imprevisti', 'JJ'), ('»', 'NNP'), ('WEBSITE', 'NNP'), ('@', 'NNP'), ('UNFCC', 'NNP'), ('@', 'NNP'), ('ClimateNews', 'NNP')]"
+    }, {
+            'text': "RT @coccaclaudio: ANDREBBE BONIFICATA.\nMA CON L'ESERCITO.\nCON IL BUONISMO NON SI VA DA NESSUNA PARTE.\nIL DEGRADO AVANZA IN TUTTA LA NAZIONE…",
+            'language': 'en',
+            'time': 'Tue Oct 30 16:57:26 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'coccaclaudio\', \'NN\'), (\':\', \':\'), (\'ANDREBBE\', \'NNP\'), (\'BONIFICATA\', \'NNP\'), (\'.\', \'.\'), (\'MA\', \'NNP\'), (\'CON\', \'NNP\'), ("L\'ESERCITO", \'NNP\'), (\'.\', \'.\'), (\'CON\', \'NNP\'), (\'IL\', \'NNP\'), (\'BUONISMO\', \'NNP\'), (\'NON\', \'NNP\'), (\'SI\', \'NNP\'), (\'VA\', \'NNP\'), (\'DA\', \'NNP\'), (\'NESSUNA\', \'NNP\'), (\'PARTE\', \'NNP\'), (\'.\', \'.\'), (\'IL\', \'NNP\'), (\'DEGRADO\', \'NNP\'), (\'AVANZA\', \'NNP\'), (\'IN\', \'NNP\'), (\'TUTTA\', \'NNP\'), (\'LA\', \'NNP\'), (\'NAZIONE…\', \'NNP\')]'
+    }, {
+            'text': 'RT @Dario3174: Non è un fiume ma una calle in centro a Venezia 🤗 https://t.co/yNaYt9gPxY',
+            'language': 'en',
+            'time': 'Tue Oct 30 16:57:41 +0000 2018',
+            'urls': "['https://t.co/yNaYt9gPxY']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('Dario3174', 'NNP'), (':', ':'), ('Non', 'NNP'), ('è', 'NNP'), ('un', 'JJ'), ('fiume', 'NN'), ('ma', 'NN'), ('una', 'JJ'), ('calle', 'NN'), ('in', 'IN'), ('centro', 'NN'), ('a', 'DT'), ('Venezia', 'NNP'), ('🤗', 'NNP'), ('WEBSITE', 'NNP')]"
+    }, {
+            'text': "RT @Cighi: Ma, a #Venezia chi amministra la città? No perché sono due metri sott'acqua, hanno speso miliardi per una opera inutile, che avr…",
+            'language': 'en',
+            'time': 'Tue Oct 30 16:57:44 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'Cighi\', \'NNP\'), (\':\', \':\'), (\'Ma\', \'NNP\'), (\',\', \',\'), (\'a\', \'DT\'), (\'#\', \'#\'), (\'Venezia\', \'NNP\'), (\'chi\', \'NN\'), (\'amministra\', \'NN\'), (\'la\', \'NN\'), (\'città\', \'NN\'), (\'?\', \'.\'), (\'No\', \'UH\'), (\'perché\', \'NN\'), (\'sono\', \'NNS\'), (\'due\', \'JJ\'), (\'metri\', \'CD\'), ("sott\'acqua", \'NN\'), (\',\', \',\'), (\'hanno\', \'NN\'), (\'speso\', \'NN\'), (\'miliardi\', \'FW\'), (\'per\', \'IN\'), (\'una\', \'NN\'), (\'opera\', \'NN\'), (\'inutile\', \'NN\'), (\',\', \',\'), (\'che\', \'NN\'), (\'avr…\', \'NN\')]'
+    }, {
+            'text': "RT @Ansa_Fvg: L'Ansa incontra le 'eccellenze' del Friuli Venezia Giulia - Friuli V. G. https://t.co/xRBIzzD2ot",
+            'language': 'en',
+            'time': 'Tue Oct 30 16:57:48 +0000 2018',
+            'urls': "['https://t.co/xRBIzzD2ot']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'Ansa_Fvg\', \'NNP\'), (\':\', \':\'), ("L\'Ansa", \'NNP\'), (\'incontra\', \'VBP\'), (\'le\', \'JJ\'), ("\'eccellenze", \'NNP\'), ("\'", \'POS\'), (\'del\', \'NN\'), (\'Friuli\', \'NNP\'), (\'Venezia\', \'NNP\'), (\'Giulia\', \'NNP\'), (\'-\', \':\'), (\'Friuli\', \'NNP\'), (\'V.\', \'NNP\'), (\'G.\', \'NNP\'), (\'WEBSITE\', \'NNP\')]'
+    }, {
+            'text': 'RT @elenabulla1: MILIONI SPESI PER AVERE VENEZIA ALLAGATA\nIL MOSE a VENEZIA 29/10/2018\nuna situazione surreale \n"Mare d\'inverno" https://t.…',
+            'language': 'en',
+            'time': 'Tue Oct 30 16:57:57 +0000 2018',
+            'urls': "['https://t.']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'elenabulla1\', \'NN\'), (\':\', \':\'), (\'MILIONI\', \'NNP\'), (\'SPESI\', \'NNP\'), (\'PER\', \'NNP\'), (\'AVERE\', \'NNP\'), (\'VENEZIA\', \'NNP\'), (\'ALLAGATA\', \'NNP\'), (\'IL\', \'NNP\'), (\'MOSE\', \'NNP\'), (\'a\', \'DT\'), (\'VENEZIA\', \'NNP\'), (\'29/10/2018\', \'CD\'), (\'una\', \'JJ\'), (\'situazione\', \'NN\'), (\'surreale\', \'NN\'), ("\'\'", "\'\'"), (\'Mare\', \'NNP\'), ("d\'inverno", \'NN\'), ("\'\'", "\'\'"), (\'WEBSITE…\', \'NNP\')]'
+    }, {
+            'text': 'RT @inprocinto: Poche città (o forse nessun’altra) riuscirebbero a vivere e continuare a funzionare sommerse da più di un metro e mezzo di…',
+            'language': 'en',
+            'time': 'Tue Oct 30 16:58:04 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('inprocinto', 'NN'), (':', ':'), ('Poche', 'NNP'), ('città', 'NN'), ('(', '('), ('o', 'JJ'), ('forse', 'NN'), ('nessun', 'NN'), ('’', 'NNP'), ('altra', 'NN'), (')', ')'), ('riuscirebbero', 'VBZ'), ('a', 'DT'), ('vivere', 'JJ'), ('e', 'NN'), ('continuare', 'NN'), ('a', 'DT'), ('funzionare', 'JJ'), ('sommerse', 'NN'), ('da', 'NN'), ('più', 'NN'), ('di', 'NN'), ('un', 'JJ'), ('metro', 'NN'), ('e', 'NN'), ('mezzo', 'NN'), ('di…', 'NN')]"
+    }, {
+            'text': "RT @PetraReski: L'effetto favoloso delle grandi opere e della salvaguardia di #Venezia . 8 miliardi per il #MOSE. 1 miliardo di tangenti. O…",
+            'language': 'en',
+            'time': 'Tue Oct 30 16:58:12 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'PetraReski\', \'NNP\'), (\':\', \':\'), ("L\'effetto", \'NNP\'), (\'favoloso\', \'VBZ\'), (\'delle\', \'FW\'), (\'grandi\', \'NN\'), (\'opere\', \'RB\'), (\'e\', \'VBZ\'), (\'della\', \'NN\'), (\'salvaguardia\', \'NN\'), (\'di\', \'NN\'), (\'#\', \'#\'), (\'Venezia\', \'NNP\'), (\'.\', \'.\'), (\'8\', \'CD\'), (\'miliardi\', \'NN\'), (\'per\', \'IN\'), (\'il\', \'NN\'), (\'#\', \'#\'), (\'MOSE\', \'NNP\'), (\'.\', \'.\'), (\'1\', \'CD\'), (\'miliardo\', \'JJ\'), (\'di\', \'NN\'), (\'tangenti\', \'NN\'), (\'.\', \'.\'), (\'O…\', \'CC\')]'
+    }, {
+            'text': 'RT @sottoinchiesta: A @sottoinchiesta @manufalcetti su @Radio1Rai #dannimaltempo #Venezia Tiziano Graziottin @tomasomontanari #Liguria @luc…',
+            'language': 'en',
+            'time': 'Tue Oct 30 16:58:18 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('sottoinchiesta', 'NN'), (':', ':'), ('A', 'DT'), ('@', 'NN'), ('sottoinchiesta', 'NN'), ('@', 'NNP'), ('manufalcetti', 'NN'), ('su', 'NN'), ('@', 'NNP'), ('Radio1Rai', 'NNP'), ('#', '#'), ('dannimaltempo', 'JJ'), ('#', '#'), ('Venezia', 'NNP'), ('Tiziano', 'NNP'), ('Graziottin', 'NNP'), ('@', 'NNP'), ('tomasomontanari', 'NN'), ('#', '#'), ('Liguria', 'NNP'), ('@', 'NNP'), ('luc…', 'NN')]"
+    }, {
+            'text': "RT @NRicominciare: Napoli o Venezia? Ieri  Buttiamola a ridere 🤣🤣Ragazzi qui a Napoli mai visto un vento così forte.....\nHo sentito un po'…",
+            'language': 'en',
+            'time': 'Tue Oct 30 16:58:28 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'NRicominciare\', \'NNP\'), (\':\', \':\'), (\'Napoli\', \'NNP\'), (\'o\', \'MD\'), (\'Venezia\', \'VB\'), (\'?\', \'.\'), (\'Ieri\', \'NNP\'), (\'Buttiamola\', \'NNP\'), (\'a\', \'DT\'), (\'ridere\', \'JJ\'), (\'🤣🤣Ragazzi\', \'NNP\'), (\'qui\', \'NN\'), (\'a\', \'DT\'), (\'Napoli\', \'NNP\'), (\'mai\', \'NN\'), (\'visto\', \'NN\'), (\'un\', \'JJ\'), (\'vento\', \'NN\'), (\'così\', \'NN\'), (\'forte\', \'NN\'), (\'...\', \':\'), (\'..\', \'JJ\'), (\'Ho\', \'NNP\'), (\'sentito\', \'NN\'), (\'un\', \'NN\'), ("po\'…", \'NN\')]'
+    }, {
+            'text': 'RT @AlessandroCere7: 🔴Nel suo libro del 2013 ”Oltre la rottamazione”#Renzi \nScriveva così sulla #Tav:\n\nLa Tav? Non è un’opera dannosa, ma i…',
+            'language': 'en',
+            'time': 'Tue Oct 30 16:58:30 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('AlessandroCere7', 'NNP'), (':', ':'), ('🔴Nel', 'NN'), ('suo', 'NN'), ('libro', 'NN'), ('del', 'NN'), ('2013', 'CD'), ('”', 'NNP'), ('Oltre', 'NNP'), ('la', 'NNP'), ('rottamazione', 'NN'), ('”', 'NNP'), ('#', '#'), ('Renzi', 'NNP'), ('Scriveva', 'NNP'), ('così', 'NN'), ('sulla', 'NN'), ('#', '#'), ('Tav', 'NNP'), (':', ':'), ('La', 'NNP'), ('Tav', 'NNP'), ('?', '.'), ('Non', 'NNP'), ('è', 'NNP'), ('un', 'JJ'), ('’', 'NNP'), ('opera', 'NN'), ('dannosa', 'NN'), (',', ','), ('ma', 'NN'), ('i…', 'NN')]"
+    }, {
+            'text': 'RT @matteorenzi: Dire NO alla Tav non significa dire NO solo alla Torino-Lione, ma dire no alla Venezia-Milano-Parigi. I grilloleghisti vog…',
+            'language': 'en',
+            'time': 'Tue Oct 30 16:58:34 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('matteorenzi', 'NN'), (':', ':'), ('Dire', 'NNP'), ('NO', 'NNP'), ('alla', 'NN'), ('Tav', 'NNP'), ('non', 'NN'), ('significa', 'NN'), ('dire', 'VBZ'), ('NO', 'NNP'), ('solo', 'NN'), ('alla', 'NN'), ('Torino-Lione', 'CD'), (',', ','), ('ma', 'FW'), ('dire', 'VBZ'), ('no', 'DT'), ('alla', 'NN'), ('Venezia-Milano-Parigi', 'NNP'), ('.', '.'), ('I', 'PRP'), ('grilloleghisti', 'VBP'), ('vog…', 'NNS')]"
+    }, {
+            'text': '#Venezia, domani riaprono le scuole https://t.co/dBjCMO0CE4 https://t.co/dBjCMO0CE4',
+            'language': 'en',
+            'time': 'Tue Oct 30 16:58:40 +0000 2018',
+            'urls': "['https://t.co/dBjCMO0CE4', 'https://t.co/dBjCMO0CE4']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('#', '#'), ('Venezia', 'NNP'), (',', ','), ('domani', 'FW'), ('riaprono', 'FW'), ('le', 'FW'), ('scuole', 'FW'), ('WEBSITE', 'NNP'), ('WEBSITE', 'NNP')]"
+    }, {
+            'text': 'RT @gq_gianni: Non siamo a Venezia ma Roma  stamane, dopo un brevissimo temporale, ecco la situazione a GregorioVII nei pressi di San Pietr…',
+            'language': 'en',
+            'time': 'Tue Oct 30 16:58:42 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('gq_gianni', 'NN'), (':', ':'), ('Non', 'NNP'), ('siamo', 'VBZ'), ('a', 'DT'), ('Venezia', 'NNP'), ('ma', 'NN'), ('Roma', 'NNP'), ('stamane', 'NN'), (',', ','), ('dopo', 'NN'), ('un', 'JJ'), ('brevissimo', 'NN'), ('temporale', 'NN'), (',', ','), ('ecco', 'NN'), ('la', 'NN'), ('situazione', 'VBD'), ('a', 'DT'), ('GregorioVII', 'NNP'), ('nei', 'NN'), ('pressi', 'NN'), ('di', 'VBZ'), ('San', 'NNP'), ('Pietr…', 'NNP')]"
+    }, {
+            'text': 'RT @Scalalexandra: VOLETE SAPERE DOVE FINISCONO I NOSTRI SOLDI?\nE ci sono ancora 1000 casi come questo.\n#Mose \n#venezia \n#vergogna \n#Sapeva…',
+            'language': 'en',
+            'time': 'Tue Oct 30 16:58:57 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('Scalalexandra', 'NNP'), (':', ':'), ('VOLETE', 'NNP'), ('SAPERE', 'NNP'), ('DOVE', 'NNP'), ('FINISCONO', 'NNP'), ('I', 'PRP'), ('NOSTRI', 'NNP'), ('SOLDI', 'NNP'), ('?', '.'), ('E', 'NNP'), ('ci', 'NN'), ('sono', 'NN'), ('ancora', 'NN'), ('1000', 'CD'), ('casi', 'NN'), ('come', 'VBN'), ('questo', 'RB'), ('.', '.'), ('#', '#'), ('Mose', 'NNP'), ('#', '#'), ('venezia', 'RB'), ('#', '#'), ('vergogna', 'JJ'), ('#', '#'), ('Sapeva…', 'NNP')]"
+    }, {
+            'text': "RT @PetraReski: L'effetto favoloso delle grandi opere e della salvaguardia di #Venezia . 8 miliardi per il #MOSE. 1 miliardo di tangenti. O…",
+            'language': 'en',
+            'time': 'Tue Oct 30 16:59:02 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'PetraReski\', \'NNP\'), (\':\', \':\'), ("L\'effetto", \'NNP\'), (\'favoloso\', \'VBZ\'), (\'delle\', \'FW\'), (\'grandi\', \'NN\'), (\'opere\', \'RB\'), (\'e\', \'VBZ\'), (\'della\', \'NN\'), (\'salvaguardia\', \'NN\'), (\'di\', \'NN\'), (\'#\', \'#\'), (\'Venezia\', \'NNP\'), (\'.\', \'.\'), (\'8\', \'CD\'), (\'miliardi\', \'NN\'), (\'per\', \'IN\'), (\'il\', \'NN\'), (\'#\', \'#\'), (\'MOSE\', \'NNP\'), (\'.\', \'.\'), (\'1\', \'CD\'), (\'miliardo\', \'JJ\'), (\'di\', \'NN\'), (\'tangenti\', \'NN\'), (\'.\', \'.\'), (\'O…\', \'CC\')]'
+    }, {
+            'text': 'RT @comunevenezia: #29Ottobre | acqua dal cielo e acqua dal mare.\n\nIl #Maltempo su #Venezia\n\n@muoversivenezia @giornaleprociv @DetourismVen…',
+            'language': 'en',
+            'time': 'Tue Oct 30 16:59:05 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('comunevenezia', 'NN'), (':', ':'), ('#', '#'), ('29Ottobre', 'CD'), ('|', 'JJ'), ('acqua', 'NN'), ('dal', 'NN'), ('cielo', 'NN'), ('e', 'NN'), ('acqua', 'IN'), ('dal', 'JJ'), ('mare', 'NN'), ('.', '.'), ('Il', 'NNP'), ('#', '#'), ('Maltempo', 'NNP'), ('su', 'NN'), ('#', '#'), ('Venezia', 'NNP'), ('@', 'NNP'), ('muoversivenezia', 'NN'), ('@', 'NNP'), ('giornaleprociv', 'NN'), ('@', 'NNP'), ('DetourismVen…', 'NNP')]"
+    }, {
+            'text': 'RT @matteorenzi: Dire NO alla Tav non significa dire NO solo alla Torino-Lione, ma dire no alla Venezia-Milano-Parigi. I grilloleghisti vog…',
+            'language': 'en',
+            'time': 'Tue Oct 30 16:59:16 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('matteorenzi', 'NN'), (':', ':'), ('Dire', 'NNP'), ('NO', 'NNP'), ('alla', 'NN'), ('Tav', 'NNP'), ('non', 'NN'), ('significa', 'NN'), ('dire', 'VBZ'), ('NO', 'NNP'), ('solo', 'NN'), ('alla', 'NN'), ('Torino-Lione', 'CD'), (',', ','), ('ma', 'FW'), ('dire', 'VBZ'), ('no', 'DT'), ('alla', 'NN'), ('Venezia-Milano-Parigi', 'NNP'), ('.', '.'), ('I', 'PRP'), ('grilloleghisti', 'VBP'), ('vog…', 'NNS')]"
+    }, {
+            'text': "RT @bannamix1: Giornalisti #leccaculi come @alexbarbera o @bravimabasta hanno messo la loro vita e l'account di twitter a disposizione di c…",
+            'language': 'en',
+            'time': 'Tue Oct 30 16:59:17 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'bannamix1\', \'NN\'), (\':\', \':\'), (\'Giornalisti\', \'NNP\'), (\'#\', \'#\'), (\'leccaculi\', \'JJ\'), (\'come\', \'VBP\'), (\'@\', \'JJ\'), (\'alexbarbera\', \'NN\'), (\'o\', \'NN\'), (\'@\', \'NNP\'), (\'bravimabasta\', \'NN\'), (\'hanno\', \'NN\'), (\'messo\', \'NN\'), (\'la\', \'FW\'), (\'loro\', \'FW\'), (\'vita\', \'FW\'), (\'e\', \'FW\'), ("l\'account", \'NN\'), (\'di\', \'NN\'), (\'twitter\', \'NN\'), (\'a\', \'DT\'), (\'disposizione\', \'NN\'), (\'di\', \'NN\'), (\'c…\', \'NN\')]'
+    }, {
+            'text': "RT @AntPietrogrande: #Venezia Piazza San Marco ora.\nRicevo da un'amica https://t.co/GLzY697EEV",
+            'language': 'en',
+            'time': 'Tue Oct 30 16:59:18 +0000 2018',
+            'urls': "['https://t.co/GLzY697EEV']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'AntPietrogrande\', \'NNP\'), (\':\', \':\'), (\'#\', \'#\'), (\'Venezia\', \'NNP\'), (\'Piazza\', \'NNP\'), (\'San\', \'NNP\'), (\'Marco\', \'NNP\'), (\'ora\', \'NN\'), (\'.\', \'.\'), (\'Ricevo\', \'NNP\'), (\'da\', \'NN\'), ("un\'amica", \'NN\'), (\'WEBSITE\', \'NNP\')]'
+    }, {
+            'text': "Fadalto - Entrata Chiusa\xa0\xa0\xa0 A27 Venezia-Belluno \xa0 Fadalto in entrata e' chiuso al traffico fino alle 09:00 del 31/10/2018 verso Vene...",
+            'language': 'en',
+            'time': 'Tue Oct 30 17:00:03 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'Fadalto\', \'NNP\'), (\'-\', \':\'), (\'Entrata\', \'NNP\'), (\'Chiusa\', \'NNP\'), (\'A27\', \'NNP\'), (\'Venezia-Belluno\', \'NNP\'), (\'Fadalto\', \'NNP\'), (\'in\', \'IN\'), (\'entrata\', \'JJ\'), (\'e\', \'NN\'), ("\'", \'POS\'), (\'chiuso\', \'NN\'), (\'al\', \'IN\'), (\'traffico\', \'NN\'), (\'fino\', \'NN\'), (\'alle\', \'VBP\'), (\'09:00\', \'CD\'), (\'del\', \'NN\'), (\'31/10/2018\', \'CD\'), (\'verso\', \'NN\'), (\'Vene\', \'NNP\'), (\'...\', \':\')]'
+    }, {
+            'text': "Fadalto - Uscita Chiusa\xa0\xa0\xa0 A27 Venezia-Belluno \xa0 L'uscita di Fadalto e' chiusa al traffico fino alle 09:00 del 31/10/2018 provenendo...",
+            'language': 'en',
+            'time': 'Tue Oct 30 17:00:04 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'Fadalto\', \'NNP\'), (\'-\', \':\'), (\'Uscita\', \'NNP\'), (\'Chiusa\', \'NNP\'), (\'A27\', \'NNP\'), (\'Venezia-Belluno\', \'NNP\'), ("L\'uscita", \'NNP\'), (\'di\', \'VBZ\'), (\'Fadalto\', \'NNP\'), (\'e\', \'NN\'), ("\'", "\'\'"), (\'chiusa\', \'JJ\'), (\'al\', \'IN\'), (\'traffico\', \'NN\'), (\'fino\', \'NN\'), (\'alle\', \'VBP\'), (\'09:00\', \'CD\'), (\'del\', \'NN\'), (\'31/10/2018\', \'CD\'), (\'provenendo\', \'NN\'), (\'...\', \':\')]'
+    }, {
+            'text': '17:20 Venezia - Nuvoloso Vento: N a 9 Km/h Temp: 12 °C Ur: 88% 1012 hPa (29.88 in Hg) - https://t.co/3MLNP99Gsk',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:00:12 +0000 2018',
+            'urls': "['https://t.co/3MLNP99Gsk']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('17:20', 'CD'), ('Venezia', 'NNP'), ('-', ':'), ('Nuvoloso', 'NN'), ('Vento', 'NNP'), (':', ':'), ('N', 'NNP'), ('a', 'DT'), ('9', 'CD'), ('Km/h', 'NNP'), ('Temp', 'NNP'), (':', ':'), ('12', 'CD'), ('°C', 'JJ'), ('Ur', 'NNP'), (':', ':'), ('88', 'CD'), ('%', 'NN'), ('1012', 'CD'), ('hPa', 'NN'), ('(', '('), ('29.88', 'CD'), ('in', 'IN'), ('Hg', 'NNP'), (')', ')'), ('-', ':'), ('WEBSITE', 'NN')]"
+    }, {
+            'text': "OGGI IN SALA\nIn programmazione THE REUNION, dell'artista/performer #ANNAODELL.\nPresentato alla Mostra di Venezia 20… https://t.co/zdnuMYzQEn",
+            'language': 'en',
+            'time': 'Tue Oct 30 17:00:16 +0000 2018',
+            'urls': "['https://t.co/zdnuMYzQEn']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'OGGI\', \'NNP\'), (\'IN\', \'NNP\'), (\'SALA\', \'NNP\'), (\'In\', \'IN\'), (\'programmazione\', \'NN\'), (\'THE\', \'NNP\'), (\'REUNION\', \'NNP\'), (\',\', \',\'), ("dell\'artista/performer", \'NN\'), (\'#\', \'#\'), (\'ANNAODELL\', \'NNP\'), (\'.\', \'.\'), (\'Presentato\', \'NNP\'), (\'alla\', \'NN\'), (\'Mostra\', \'NNP\'), (\'di\', \'VBZ\'), (\'Venezia\', \'NNP\'), (\'20…\', \'CD\'), (\'WEBSITE\', \'NNP\')]'
+    }, {
+            'text': "RT @PetraReski: L'effetto favoloso delle grandi opere e della salvaguardia di #Venezia . 8 miliardi per il #MOSE. 1 miliardo di tangenti. O…",
+            'language': 'en',
+            'time': 'Tue Oct 30 17:00:20 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'PetraReski\', \'NNP\'), (\':\', \':\'), ("L\'effetto", \'NNP\'), (\'favoloso\', \'VBZ\'), (\'delle\', \'FW\'), (\'grandi\', \'NN\'), (\'opere\', \'RB\'), (\'e\', \'VBZ\'), (\'della\', \'NN\'), (\'salvaguardia\', \'NN\'), (\'di\', \'NN\'), (\'#\', \'#\'), (\'Venezia\', \'NNP\'), (\'.\', \'.\'), (\'8\', \'CD\'), (\'miliardi\', \'NN\'), (\'per\', \'IN\'), (\'il\', \'NN\'), (\'#\', \'#\'), (\'MOSE\', \'NNP\'), (\'.\', \'.\'), (\'1\', \'CD\'), (\'miliardo\', \'JJ\'), (\'di\', \'NN\'), (\'tangenti\', \'NN\'), (\'.\', \'.\'), (\'O…\', \'CC\')]'
+    }, {
+            'text': 'RT @amix91362672: 8 miliardi di euro di cui 1 in tangenti se non ricordo male..è il MOSE in sintesi, LA GRANDISSIMA OPERA A DIFESA DI VENEZ…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:00:29 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('amix91362672', 'NN'), (':', ':'), ('8', 'CD'), ('miliardi', 'NN'), ('di', 'NN'), ('euro', 'NN'), ('di', 'NN'), ('cui', 'NN'), ('1', 'CD'), ('in', 'IN'), ('tangenti', 'NN'), ('se', 'NN'), ('non', 'NN'), ('ricordo', 'NN'), ('male..è', 'NN'), ('il', 'NN'), ('MOSE', 'NNP'), ('in', 'IN'), ('sintesi', 'NN'), (',', ','), ('LA', 'NNP'), ('GRANDISSIMA', 'NNP'), ('OPERA', 'NNP'), ('A', 'NNP'), ('DIFESA', 'NNP'), ('DI', 'NNP'), ('VENEZ…', 'NNP')]"
+    }, {
+            'text': 'RT @gq_gianni: Non siamo a Venezia ma Roma  stamane, dopo un brevissimo temporale, ecco la situazione a GregorioVII nei pressi di San Pietr…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:00:30 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('gq_gianni', 'NN'), (':', ':'), ('Non', 'NNP'), ('siamo', 'VBZ'), ('a', 'DT'), ('Venezia', 'NNP'), ('ma', 'NN'), ('Roma', 'NNP'), ('stamane', 'NN'), (',', ','), ('dopo', 'NN'), ('un', 'JJ'), ('brevissimo', 'NN'), ('temporale', 'NN'), (',', ','), ('ecco', 'NN'), ('la', 'NN'), ('situazione', 'VBD'), ('a', 'DT'), ('GregorioVII', 'NNP'), ('nei', 'NN'), ('pressi', 'NN'), ('di', 'VBZ'), ('San', 'NNP'), ('Pietr…', 'NNP')]"
+    }, {
+            'text': 'RT @sottoinchiesta: A @sottoinchiesta @manufalcetti su @Radio1Rai #dannimaltempo #Venezia Tiziano Graziottin @tomasomontanari #Liguria @luc…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:00:47 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('sottoinchiesta', 'NN'), (':', ':'), ('A', 'DT'), ('@', 'NN'), ('sottoinchiesta', 'NN'), ('@', 'NNP'), ('manufalcetti', 'NN'), ('su', 'NN'), ('@', 'NNP'), ('Radio1Rai', 'NNP'), ('#', '#'), ('dannimaltempo', 'JJ'), ('#', '#'), ('Venezia', 'NNP'), ('Tiziano', 'NNP'), ('Graziottin', 'NNP'), ('@', 'NNP'), ('tomasomontanari', 'NN'), ('#', '#'), ('Liguria', 'NNP'), ('@', 'NNP'), ('luc…', 'NN')]"
+    }, {
+            'text': '@matteorenzi Tu a Milano Venezia Torino c8 saresti andato con Air Force inquinando e sprecando danaro pubblico parl… https://t.co/YRME268r68',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:00:48 +0000 2018',
+            'urls': "['https://t.co/YRME268r68']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('@', 'JJ'), ('matteorenzi', 'NN'), ('Tu', 'NNP'), ('a', 'DT'), ('Milano', 'NNP'), ('Venezia', 'NNP'), ('Torino', 'NNP'), ('c8', 'NN'), ('saresti', 'NN'), ('andato', 'NN'), ('con', 'NN'), ('Air', 'NNP'), ('Force', 'NNP'), ('inquinando', 'NN'), ('e', 'NN'), ('sprecando', 'NN'), ('danaro', 'NN'), ('pubblico', 'NN'), ('parl…', 'NN'), ('WEBSITE', 'NNP')]"
+    }, {
+            'text': '@myrtamerlino e falla una bella puntata sul Mose di Venezia (opera dei politici esperti)...lascia e stà gli alberi… https://t.co/Xck5wAtgat',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:00:51 +0000 2018',
+            'urls': "['https://t.co/Xck5wAtgat']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('@', 'NN'), ('myrtamerlino', 'NN'), ('e', 'VBP'), ('falla', 'NN'), ('una', 'JJ'), ('bella', 'NN'), ('puntata', 'NN'), ('sul', 'NN'), ('Mose', 'NNP'), ('di', 'NN'), ('Venezia', 'NNP'), ('(', '('), ('opera', 'NN'), ('dei', 'NN'), ('politici', 'NN'), ('esperti', 'NN'), (')', ')'), ('...', ':'), ('lascia', 'JJ'), ('e', 'NN'), ('stà', 'NN'), ('gli', 'NN'), ('alberi…', 'IN'), ('WEBSITE', 'NNP')]"
+    }, {
+            'text': "RT @coccaclaudio: ANDREBBE BONIFICATA.\nMA CON L'ESERCITO.\nCON IL BUONISMO NON SI VA DA NESSUNA PARTE.\nIL DEGRADO AVANZA IN TUTTA LA NAZIONE…",
+            'language': 'en',
+            'time': 'Tue Oct 30 17:01:14 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'coccaclaudio\', \'NN\'), (\':\', \':\'), (\'ANDREBBE\', \'NNP\'), (\'BONIFICATA\', \'NNP\'), (\'.\', \'.\'), (\'MA\', \'NNP\'), (\'CON\', \'NNP\'), ("L\'ESERCITO", \'NNP\'), (\'.\', \'.\'), (\'CON\', \'NNP\'), (\'IL\', \'NNP\'), (\'BUONISMO\', \'NNP\'), (\'NON\', \'NNP\'), (\'SI\', \'NNP\'), (\'VA\', \'NNP\'), (\'DA\', \'NNP\'), (\'NESSUNA\', \'NNP\'), (\'PARTE\', \'NNP\'), (\'.\', \'.\'), (\'IL\', \'NNP\'), (\'DEGRADO\', \'NNP\'), (\'AVANZA\', \'NNP\'), (\'IN\', \'NNP\'), (\'TUTTA\', \'NNP\'), (\'LA\', \'NNP\'), (\'NAZIONE…\', \'NNP\')]'
+    }, {
+            'text': 'RT @inprocinto: Poche città (o forse nessun’altra) riuscirebbero a vivere e continuare a funzionare sommerse da più di un metro e mezzo di…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:01:47 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('inprocinto', 'NN'), (':', ':'), ('Poche', 'NNP'), ('città', 'NN'), ('(', '('), ('o', 'JJ'), ('forse', 'NN'), ('nessun', 'NN'), ('’', 'NNP'), ('altra', 'NN'), (')', ')'), ('riuscirebbero', 'VBZ'), ('a', 'DT'), ('vivere', 'JJ'), ('e', 'NN'), ('continuare', 'NN'), ('a', 'DT'), ('funzionare', 'JJ'), ('sommerse', 'NN'), ('da', 'NN'), ('più', 'NN'), ('di', 'NN'), ('un', 'JJ'), ('metro', 'NN'), ('e', 'NN'), ('mezzo', 'NN'), ('di…', 'NN')]"
+    }, {
+            'text': 'RT @inprocinto: Poche città (o forse nessun’altra) riuscirebbero a vivere e continuare a funzionare sommerse da più di un metro e mezzo di…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:02:02 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('inprocinto', 'NN'), (':', ':'), ('Poche', 'NNP'), ('città', 'NN'), ('(', '('), ('o', 'JJ'), ('forse', 'NN'), ('nessun', 'NN'), ('’', 'NNP'), ('altra', 'NN'), (')', ')'), ('riuscirebbero', 'VBZ'), ('a', 'DT'), ('vivere', 'JJ'), ('e', 'NN'), ('continuare', 'NN'), ('a', 'DT'), ('funzionare', 'JJ'), ('sommerse', 'NN'), ('da', 'NN'), ('più', 'NN'), ('di', 'NN'), ('un', 'JJ'), ('metro', 'NN'), ('e', 'NN'), ('mezzo', 'NN'), ('di…', 'NN')]"
+    }, {
+            'text': 'RT @riccardo_mene: VENETI.\nPOPOLO.\nSTRAORDINARIO.\n#maltempoveneto #Venezia https://t.co/lD4qFzjPrS',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:02:07 +0000 2018',
+            'urls': "['https://t.co/lD4qFzjPrS']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('riccardo_mene', 'NN'), (':', ':'), ('VENETI', 'NNP'), ('.', '.'), ('POPOLO', 'NNP'), ('.', '.'), ('STRAORDINARIO', 'NNP'), ('.', '.'), ('#', '#'), ('maltempoveneto', 'JJ'), ('#', '#'), ('Venezia', 'NNP'), ('WEBSITE', 'NNP')]"
+    }, {
+            'text': "RT @bannamix1: Giornalisti #leccaculi come @alexbarbera o @bravimabasta hanno messo la loro vita e l'account di twitter a disposizione di c…",
+            'language': 'en',
+            'time': 'Tue Oct 30 17:02:08 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'bannamix1\', \'NN\'), (\':\', \':\'), (\'Giornalisti\', \'NNP\'), (\'#\', \'#\'), (\'leccaculi\', \'JJ\'), (\'come\', \'VBP\'), (\'@\', \'JJ\'), (\'alexbarbera\', \'NN\'), (\'o\', \'NN\'), (\'@\', \'NNP\'), (\'bravimabasta\', \'NN\'), (\'hanno\', \'NN\'), (\'messo\', \'NN\'), (\'la\', \'FW\'), (\'loro\', \'FW\'), (\'vita\', \'FW\'), (\'e\', \'FW\'), ("l\'account", \'NN\'), (\'di\', \'NN\'), (\'twitter\', \'NN\'), (\'a\', \'DT\'), (\'disposizione\', \'NN\'), (\'di\', \'NN\'), (\'c…\', \'NN\')]'
+    }, {
+            'text': "RT @coccaclaudio: ANDREBBE BONIFICATA.\nMA CON L'ESERCITO.\nCON IL BUONISMO NON SI VA DA NESSUNA PARTE.\nIL DEGRADO AVANZA IN TUTTA LA NAZIONE…",
+            'language': 'en',
+            'time': 'Tue Oct 30 17:02:11 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'coccaclaudio\', \'NN\'), (\':\', \':\'), (\'ANDREBBE\', \'NNP\'), (\'BONIFICATA\', \'NNP\'), (\'.\', \'.\'), (\'MA\', \'NNP\'), (\'CON\', \'NNP\'), ("L\'ESERCITO", \'NNP\'), (\'.\', \'.\'), (\'CON\', \'NNP\'), (\'IL\', \'NNP\'), (\'BUONISMO\', \'NNP\'), (\'NON\', \'NNP\'), (\'SI\', \'NNP\'), (\'VA\', \'NNP\'), (\'DA\', \'NNP\'), (\'NESSUNA\', \'NNP\'), (\'PARTE\', \'NNP\'), (\'.\', \'.\'), (\'IL\', \'NNP\'), (\'DEGRADO\', \'NNP\'), (\'AVANZA\', \'NNP\'), (\'IN\', \'NNP\'), (\'TUTTA\', \'NNP\'), (\'LA\', \'NNP\'), (\'NAZIONE…\', \'NNP\')]'
+    }, {
+            'text': 'Ieri è stata una giornata molto difficile per tutta la città di Venezia che ha dovuto far fronte ad un evento di ac… https://t.co/hVg5MD5HeZ',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:02:14 +0000 2018',
+            'urls': "['https://t.co/hVg5MD5HeZ']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('Ieri', 'NNP'), ('è', 'NNP'), ('stata', 'VBD'), ('una', 'JJ'), ('giornata', 'NN'), ('molto', 'NN'), ('difficile', 'NN'), ('per', 'IN'), ('tutta', 'NN'), ('la', 'NN'), ('città', 'NN'), ('di', 'NN'), ('Venezia', 'NNP'), ('che', 'NN'), ('ha', 'NN'), ('dovuto', 'NN'), ('far', 'RB'), ('fronte', 'JJ'), ('ad', 'NN'), ('un', 'NN'), ('evento', 'IN'), ('di', 'JJ'), ('ac…', 'NN'), ('WEBSITE', 'NNP')]"
+    }, {
+            'text': 'Inondò Venezia; Nayarit è stato allagato in Messico.\nQuesto è indubbiamente il risultato del cambiamento climatico.… https://t.co/eRkuyfQe9F',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:02:21 +0000 2018',
+            'urls': "['https://t.co/eRkuyfQe9F']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('Inondò', 'NNP'), ('Venezia', 'NNP'), (';', ':'), ('Nayarit', 'NNP'), ('è', 'NNP'), ('stato', 'NN'), ('allagato', 'NN'), ('in', 'IN'), ('Messico', 'NNP'), ('.', '.'), ('Questo', 'NNP'), ('è', 'NNP'), ('indubbiamente', 'NN'), ('il', 'NN'), ('risultato', 'NN'), ('del', 'NN'), ('cambiamento', 'NN'), ('climatico.…', 'NN'), ('WEBSITE', 'NNP')]"
+    }, {
+            'text': 'RT @LuigiBrugnaro: Video 🎥 | Situazione #Venezia: oggi è andata meglio ma continuiamo a monitorare la situazione con il @ICPSMVenezia \n\nSia…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:02:28 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('LuigiBrugnaro', 'NNP'), (':', ':'), ('Video', 'NNP'), ('🎥', 'NNP'), ('|', 'NNP'), ('Situazione', 'NNP'), ('#', '#'), ('Venezia', 'NNP'), (':', ':'), ('oggi', 'NN'), ('è', 'NNP'), ('andata', 'NN'), ('meglio', 'NN'), ('ma', 'NN'), ('continuiamo', 'VBZ'), ('a', 'DT'), ('monitorare', 'NN'), ('la', 'NN'), ('situazione', 'NN'), ('con', 'NN'), ('il', 'NN'), ('@', 'NNP'), ('ICPSMVenezia', 'NNP'), ('Sia…', 'NNP')]"
+    }, {
+            'text': 'RT @AlessandroCere7: 🔴Nel suo libro del 2013 ”Oltre la rottamazione”#Renzi \nScriveva così sulla #Tav:\n\nLa Tav? Non è un’opera dannosa, ma i…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:02:30 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('AlessandroCere7', 'NNP'), (':', ':'), ('🔴Nel', 'NN'), ('suo', 'NN'), ('libro', 'NN'), ('del', 'NN'), ('2013', 'CD'), ('”', 'NNP'), ('Oltre', 'NNP'), ('la', 'NNP'), ('rottamazione', 'NN'), ('”', 'NNP'), ('#', '#'), ('Renzi', 'NNP'), ('Scriveva', 'NNP'), ('così', 'NN'), ('sulla', 'NN'), ('#', '#'), ('Tav', 'NNP'), (':', ':'), ('La', 'NNP'), ('Tav', 'NNP'), ('?', '.'), ('Non', 'NNP'), ('è', 'NNP'), ('un', 'JJ'), ('’', 'NNP'), ('opera', 'NN'), ('dannosa', 'NN'), (',', ','), ('ma', 'NN'), ('i…', 'NN')]"
+    }, {
+            'text': "RT @tg2rai: #Maltempo Nella notte previsto un peggioramento con ulteriori piogge, sotto osservazione i fiumi. A Venezia record d'acqua alta…",
+            'language': 'en',
+            'time': 'Tue Oct 30 17:02:52 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'tg2rai\', \'NN\'), (\':\', \':\'), (\'#\', \'#\'), (\'Maltempo\', \'NNP\'), (\'Nella\', \'NNP\'), (\'notte\', \'NN\'), (\'previsto\', \'NN\'), (\'un\', \'JJ\'), (\'peggioramento\', \'NN\'), (\'con\', \'NN\'), (\'ulteriori\', \'JJ\'), (\'piogge\', \'NN\'), (\',\', \',\'), (\'sotto\', \'VBP\'), (\'osservazione\', \'NN\'), (\'i\', \'NN\'), (\'fiumi\', \'VBP\'), (\'.\', \'.\'), (\'A\', \'DT\'), (\'Venezia\', \'NNP\'), (\'record\', \'NN\'), ("d\'acqua", \'NN\'), (\'alta…\', \'NN\')]'
+    }, {
+            'text': "RT @coccaclaudio: ANDREBBE BONIFICATA.\nMA CON L'ESERCITO.\nCON IL BUONISMO NON SI VA DA NESSUNA PARTE.\nIL DEGRADO AVANZA IN TUTTA LA NAZIONE…",
+            'language': 'en',
+            'time': 'Tue Oct 30 17:02:56 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'coccaclaudio\', \'NN\'), (\':\', \':\'), (\'ANDREBBE\', \'NNP\'), (\'BONIFICATA\', \'NNP\'), (\'.\', \'.\'), (\'MA\', \'NNP\'), (\'CON\', \'NNP\'), ("L\'ESERCITO", \'NNP\'), (\'.\', \'.\'), (\'CON\', \'NNP\'), (\'IL\', \'NNP\'), (\'BUONISMO\', \'NNP\'), (\'NON\', \'NNP\'), (\'SI\', \'NNP\'), (\'VA\', \'NNP\'), (\'DA\', \'NNP\'), (\'NESSUNA\', \'NNP\'), (\'PARTE\', \'NNP\'), (\'.\', \'.\'), (\'IL\', \'NNP\'), (\'DEGRADO\', \'NNP\'), (\'AVANZA\', \'NNP\'), (\'IN\', \'NNP\'), (\'TUTTA\', \'NNP\'), (\'LA\', \'NNP\'), (\'NAZIONE…\', \'NNP\')]'
+    }, {
+            'text': 'RT @marcodipaolo96: A #Venezia oggi sono arrivati all’immaginabile https://t.co/d0vL9cus60',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:03:05 +0000 2018',
+            'urls': "['https://t.co/d0vL9cus60']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('marcodipaolo96', 'NN'), (':', ':'), ('A', 'DT'), ('#', '#'), ('Venezia', 'NNP'), ('oggi', 'FW'), ('sono', 'NN'), ('arrivati', 'IN'), ('all', 'DT'), ('’', 'NNP'), ('immaginabile', 'NN'), ('WEBSITE', 'NNP')]"
+    }, {
+            'text': 'RT @LuigiBrugnaro: Video 🎥 | Situazione #Venezia: oggi è andata meglio ma continuiamo a monitorare la situazione con il @ICPSMVenezia \n\nSia…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:03:05 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('LuigiBrugnaro', 'NNP'), (':', ':'), ('Video', 'NNP'), ('🎥', 'NNP'), ('|', 'NNP'), ('Situazione', 'NNP'), ('#', '#'), ('Venezia', 'NNP'), (':', ':'), ('oggi', 'NN'), ('è', 'NNP'), ('andata', 'NN'), ('meglio', 'NN'), ('ma', 'NN'), ('continuiamo', 'VBZ'), ('a', 'DT'), ('monitorare', 'NN'), ('la', 'NN'), ('situazione', 'NN'), ('con', 'NN'), ('il', 'NN'), ('@', 'NNP'), ('ICPSMVenezia', 'NNP'), ('Sia…', 'NNP')]"
+    }, {
+            'text': "RT @senzasinistra: La #grandeopera del #Mose(8mld)mai entrata in funzione perche' difettosa.E oggi #Venezia ancora sott'acqua.Non serviva u…",
+            'language': 'en',
+            'time': 'Tue Oct 30 17:03:24 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'senzasinistra\', \'NN\'), (\':\', \':\'), (\'La\', \'NNP\'), (\'#\', \'#\'), (\'grandeopera\', \'NN\'), (\'del\', \'NN\'), (\'#\', \'#\'), (\'Mose\', \'NNP\'), (\'(\', \'(\'), (\'8mld\', \'CD\'), (\')\', \')\'), (\'mai\', \'NN\'), (\'entrata\', \'NN\'), (\'in\', \'IN\'), (\'funzione\', \'NN\'), (\'perche\', \'NN\'), ("\'", "\'\'"), (\'difettosa.E\', \'JJ\'), (\'oggi\', \'JJ\'), (\'#\', \'#\'), (\'Venezia\', \'NNP\'), (\'ancora\', \'NN\'), ("sott\'acqua.Non", \'NN\'), (\'serviva\', \'NN\'), (\'u…\', \'NN\')]'
+    }, {
+            'text': 'RT @senzasinistra: Da mo che lo diciamo ma nessuno annovera questa tra le grandi opere... sempre strade sottopassi #tav #tap Mose... #Mose.…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:03:30 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('senzasinistra', 'NN'), (':', ':'), ('Da', 'NNP'), ('mo', 'NN'), ('che', 'NN'), ('lo', 'NN'), ('diciamo', 'NN'), ('ma', 'NN'), ('nessuno', 'JJ'), ('annovera', 'NN'), ('questa', 'NN'), ('tra', 'JJ'), ('le', 'NN'), ('grandi', 'NN'), ('opere', 'RB'), ('...', ':'), ('sempre', 'NN'), ('strade', 'VBD'), ('sottopassi', 'JJ'), ('#', '#'), ('tav', 'JJ'), ('#', '#'), ('tap', 'NN'), ('Mose', 'NNP'), ('...', ':'), ('#', '#'), ('Mose.…', 'NNP')]"
+    }, {
+            'text': "Non si sa se ridere o piangere, ma a Venezia riescono a mangiare tranquillamente con l'acqua alta. Non il massimo d… https://t.co/X2tDXCgwCl",
+            'language': 'en',
+            'time': 'Tue Oct 30 17:03:43 +0000 2018',
+            'urls': "['https://t.co/X2tDXCgwCl']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'Non\', \'NNP\'), (\'si\', \'NN\'), (\'sa\', \'NN\'), (\'se\', \'NN\'), (\'ridere\', \'RB\'), (\'o\', \'RB\'), (\'piangere\', \'RB\'), (\',\', \',\'), (\'ma\', \'VBD\'), (\'a\', \'DT\'), (\'Venezia\', \'NNP\'), (\'riescono\', \'NN\'), (\'a\', \'DT\'), (\'mangiare\', \'NN\'), (\'tranquillamente\', \'JJ\'), (\'con\', \'NN\'), ("l\'acqua", \'NN\'), (\'alta\', \'NN\'), (\'.\', \'.\'), (\'Non\', \'NNP\'), (\'il\', \'JJ\'), (\'massimo\', \'NN\'), (\'d…\', \'NN\'), (\'WEBSITE\', \'NNP\')]'
+    }, {
+            'text': 'RT @inprocinto: Poche città (o forse nessun’altra) riuscirebbero a vivere e continuare a funzionare sommerse da più di un metro e mezzo di…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:03:52 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('inprocinto', 'NN'), (':', ':'), ('Poche', 'NNP'), ('città', 'NN'), ('(', '('), ('o', 'JJ'), ('forse', 'NN'), ('nessun', 'NN'), ('’', 'NNP'), ('altra', 'NN'), (')', ')'), ('riuscirebbero', 'VBZ'), ('a', 'DT'), ('vivere', 'JJ'), ('e', 'NN'), ('continuare', 'NN'), ('a', 'DT'), ('funzionare', 'JJ'), ('sommerse', 'NN'), ('da', 'NN'), ('più', 'NN'), ('di', 'NN'), ('un', 'JJ'), ('metro', 'NN'), ('e', 'NN'), ('mezzo', 'NN'), ('di…', 'NN')]"
+    }, {
+            'text': 'RT @carlaruocco1: IL MOSE: LA DIGA DEGLI SPRECHI\n\nIn questi giorni l’acqua alta è tornata ad allagare Venezia, il problema doveva essere ri…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:04:02 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('carlaruocco1', 'NN'), (':', ':'), ('IL', 'NNP'), ('MOSE', 'NNP'), (':', ':'), ('LA', 'NNP'), ('DIGA', 'NNP'), ('DEGLI', 'NNP'), ('SPRECHI', 'NNP'), ('In', 'IN'), ('questi', 'JJ'), ('giorni', 'NN'), ('l', 'NN'), ('’', 'NNP'), ('acqua', 'VBZ'), ('alta', 'JJ'), ('è', 'NNP'), ('tornata', 'NN'), ('ad', 'NN'), ('allagare', 'NN'), ('Venezia', 'NNP'), (',', ','), ('il', 'NN'), ('problema', 'NN'), ('doveva', 'NN'), ('essere', 'RB'), ('ri…', 'VB')]"
+    }, {
+            'text': 'RT @inprocinto: Poche città (o forse nessun’altra) riuscirebbero a vivere e continuare a funzionare sommerse da più di un metro e mezzo di…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:04:05 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('inprocinto', 'NN'), (':', ':'), ('Poche', 'NNP'), ('città', 'NN'), ('(', '('), ('o', 'JJ'), ('forse', 'NN'), ('nessun', 'NN'), ('’', 'NNP'), ('altra', 'NN'), (')', ')'), ('riuscirebbero', 'VBZ'), ('a', 'DT'), ('vivere', 'JJ'), ('e', 'NN'), ('continuare', 'NN'), ('a', 'DT'), ('funzionare', 'JJ'), ('sommerse', 'NN'), ('da', 'NN'), ('più', 'NN'), ('di', 'NN'), ('un', 'JJ'), ('metro', 'NN'), ('e', 'NN'), ('mezzo', 'NN'), ('di…', 'NN')]"
+    }, {
+            'text': "RT @DanielaCantele: Buona giornata Italia\nFoto di ieri a Venezia , inviata da un'amica veneziana https://t.co/HcEjjNeYSC",
+            'language': 'en',
+            'time': 'Tue Oct 30 17:04:07 +0000 2018',
+            'urls': "['https://t.co/HcEjjNeYSC']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'DanielaCantele\', \'NNP\'), (\':\', \':\'), (\'Buona\', \'NNP\'), (\'giornata\', \'NNS\'), (\'Italia\', \'NNP\'), (\'Foto\', \'NNP\'), (\'di\', \'VBZ\'), (\'ieri\', \'VB\'), (\'a\', \'DT\'), (\'Venezia\', \'NNP\'), (\',\', \',\'), (\'inviata\', \'NN\'), (\'da\', \'NN\'), ("un\'amica", \'JJ\'), (\'veneziana\', \'NN\'), (\'WEBSITE\', \'NNP\')]'
+    }, {
+            'text': 'RT @inprocinto: Poche città (o forse nessun’altra) riuscirebbero a vivere e continuare a funzionare sommerse da più di un metro e mezzo di…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:04:23 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('inprocinto', 'NN'), (':', ':'), ('Poche', 'NNP'), ('città', 'NN'), ('(', '('), ('o', 'JJ'), ('forse', 'NN'), ('nessun', 'NN'), ('’', 'NNP'), ('altra', 'NN'), (')', ')'), ('riuscirebbero', 'VBZ'), ('a', 'DT'), ('vivere', 'JJ'), ('e', 'NN'), ('continuare', 'NN'), ('a', 'DT'), ('funzionare', 'JJ'), ('sommerse', 'NN'), ('da', 'NN'), ('più', 'NN'), ('di', 'NN'), ('un', 'JJ'), ('metro', 'NN'), ('e', 'NN'), ('mezzo', 'NN'), ('di…', 'NN')]"
+    }, {
+            'text': '@carlaruocco1 la diga Infinita dei corrotti e sicuramente anche delle corrotte. sono decenni che ce magnano , se no… https://t.co/8L7K7TfDOe',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:04:25 +0000 2018',
+            'urls': "['https://t.co/8L7K7TfDOe']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('@', 'JJ'), ('carlaruocco1', 'NN'), ('la', 'NN'), ('diga', 'NN'), ('Infinita', 'NNP'), ('dei', 'NN'), ('corrotti', 'NN'), ('e', 'NN'), ('sicuramente', 'NN'), ('anche', 'NN'), ('delle', 'NN'), ('corrotte', 'NN'), ('.', '.'), ('sono', 'VB'), ('decenni', 'JJ'), ('che', 'NN'), ('ce', 'NN'), ('magnano', 'NN'), (',', ','), ('se', 'FW'), ('no…', 'FW'), ('WEBSITE', 'NNP')]"
+    }, {
+            'text': 'RT @carlaruocco1: IL MOSE: LA DIGA DEGLI SPRECHI\n\nIn questi giorni l’acqua alta è tornata ad allagare Venezia, il problema doveva essere ri…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:04:43 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('carlaruocco1', 'NN'), (':', ':'), ('IL', 'NNP'), ('MOSE', 'NNP'), (':', ':'), ('LA', 'NNP'), ('DIGA', 'NNP'), ('DEGLI', 'NNP'), ('SPRECHI', 'NNP'), ('In', 'IN'), ('questi', 'JJ'), ('giorni', 'NN'), ('l', 'NN'), ('’', 'NNP'), ('acqua', 'VBZ'), ('alta', 'JJ'), ('è', 'NNP'), ('tornata', 'NN'), ('ad', 'NN'), ('allagare', 'NN'), ('Venezia', 'NNP'), (',', ','), ('il', 'NN'), ('problema', 'NN'), ('doveva', 'NN'), ('essere', 'RB'), ('ri…', 'VB')]"
+    }, {
+            'text': 'Meteo VENEZIA: progresso, ma solo tregua. Altre piogge per Ognissanti https://t.co/X9wWlode9Z',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:04:54 +0000 2018',
+            'urls': "['https://t.co/X9wWlode9Z']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('Meteo', 'NNP'), ('VENEZIA', 'NNP'), (':', ':'), ('progresso', 'NN'), (',', ','), ('ma', 'FW'), ('solo', 'NN'), ('tregua', 'NN'), ('.', '.'), ('Altre', 'NNP'), ('piogge', 'NN'), ('per', 'IN'), ('Ognissanti', 'NNP'), ('WEBSITE', 'NNP')]"
+    }, {
+            'text': 'RT @mimmoroselli: Invece di costare 1,6 miliardi di euro, ne è già costato 5,5; invece di entrare in funzione nel 2011, se tutto va bene pa…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:05:23 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('mimmoroselli', 'NN'), (':', ':'), ('Invece', 'NNP'), ('di', 'VBZ'), ('costare', 'NN'), ('1,6', 'CD'), ('miliardi', 'NN'), ('di', 'NN'), ('euro', 'NN'), (',', ','), ('ne', 'JJ'), ('è', 'NNP'), ('già', 'NN'), ('costato', 'NN'), ('5,5', 'CD'), (';', ':'), ('invece', 'JJ'), ('di', 'NN'), ('entrare', 'NN'), ('in', 'IN'), ('funzione', 'NN'), ('nel', 'NN'), ('2011', 'CD'), (',', ','), ('se', 'FW'), ('tutto', 'NN'), ('va', 'FW'), ('bene', 'NN'), ('pa…', 'NN')]"
+    }, {
+            'text': 'RT @amix91362672: 8 miliardi di euro di cui 1 in tangenti se non ricordo male..è il MOSE in sintesi, LA GRANDISSIMA OPERA A DIFESA DI VENEZ…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:05:26 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('amix91362672', 'NN'), (':', ':'), ('8', 'CD'), ('miliardi', 'NN'), ('di', 'NN'), ('euro', 'NN'), ('di', 'NN'), ('cui', 'NN'), ('1', 'CD'), ('in', 'IN'), ('tangenti', 'NN'), ('se', 'NN'), ('non', 'NN'), ('ricordo', 'NN'), ('male..è', 'NN'), ('il', 'NN'), ('MOSE', 'NNP'), ('in', 'IN'), ('sintesi', 'NN'), (',', ','), ('LA', 'NNP'), ('GRANDISSIMA', 'NNP'), ('OPERA', 'NNP'), ('A', 'NNP'), ('DIFESA', 'NNP'), ('DI', 'NNP'), ('VENEZ…', 'NNP')]"
+    }, {
+            'text': 'Maltempo, #Venezia bloccata. Brugnaro: «capito a cosa serve il #MOSE?» https://t.co/tardlqzmeG',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:05:27 +0000 2018',
+            'urls': "['https://t.co/tardlqzmeG']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('Maltempo', 'NNP'), (',', ','), ('#', '#'), ('Venezia', 'NNP'), ('bloccata', 'NN'), ('.', '.'), ('Brugnaro', 'NN'), (':', ':'), ('«', 'NN'), ('capito', 'VBZ'), ('a', 'DT'), ('cosa', 'NN'), ('serve', 'NN'), ('il', 'NN'), ('#', '#'), ('MOSE', 'NNP'), ('?', '.'), ('»', 'NNP'), ('WEBSITE', 'NNP')]"
+    }, {
+            'text': 'RT @inprocinto: Poche città (o forse nessun’altra) riuscirebbero a vivere e continuare a funzionare sommerse da più di un metro e mezzo di…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:05:51 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('inprocinto', 'NN'), (':', ':'), ('Poche', 'NNP'), ('città', 'NN'), ('(', '('), ('o', 'JJ'), ('forse', 'NN'), ('nessun', 'NN'), ('’', 'NNP'), ('altra', 'NN'), (')', ')'), ('riuscirebbero', 'VBZ'), ('a', 'DT'), ('vivere', 'JJ'), ('e', 'NN'), ('continuare', 'NN'), ('a', 'DT'), ('funzionare', 'JJ'), ('sommerse', 'NN'), ('da', 'NN'), ('più', 'NN'), ('di', 'NN'), ('un', 'JJ'), ('metro', 'NN'), ('e', 'NN'), ('mezzo', 'NN'), ('di…', 'NN')]"
+    }, {
+            'text': 'RT @inprocinto: Poche città (o forse nessun’altra) riuscirebbero a vivere e continuare a funzionare sommerse da più di un metro e mezzo di…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:06:05 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('inprocinto', 'NN'), (':', ':'), ('Poche', 'NNP'), ('città', 'NN'), ('(', '('), ('o', 'JJ'), ('forse', 'NN'), ('nessun', 'NN'), ('’', 'NNP'), ('altra', 'NN'), (')', ')'), ('riuscirebbero', 'VBZ'), ('a', 'DT'), ('vivere', 'JJ'), ('e', 'NN'), ('continuare', 'NN'), ('a', 'DT'), ('funzionare', 'JJ'), ('sommerse', 'NN'), ('da', 'NN'), ('più', 'NN'), ('di', 'NN'), ('un', 'JJ'), ('metro', 'NN'), ('e', 'NN'), ('mezzo', 'NN'), ('di…', 'NN')]"
+    }, {
+            'text': 'RT @mimmoroselli: Invece di costare 1,6 miliardi di euro, ne è già costato 5,5; invece di entrare in funzione nel 2011, se tutto va bene pa…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:06:08 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('mimmoroselli', 'NN'), (':', ':'), ('Invece', 'NNP'), ('di', 'VBZ'), ('costare', 'NN'), ('1,6', 'CD'), ('miliardi', 'NN'), ('di', 'NN'), ('euro', 'NN'), (',', ','), ('ne', 'JJ'), ('è', 'NNP'), ('già', 'NN'), ('costato', 'NN'), ('5,5', 'CD'), (';', ':'), ('invece', 'JJ'), ('di', 'NN'), ('entrare', 'NN'), ('in', 'IN'), ('funzione', 'NN'), ('nel', 'NN'), ('2011', 'CD'), (',', ','), ('se', 'FW'), ('tutto', 'NN'), ('va', 'FW'), ('bene', 'NN'), ('pa…', 'NN')]"
+    }, {
+            'text': 'RT @corriereveneto: #Venezia, basilica di San Marco allagata: danni al pavimento in mosaico https://t.co/qc9bbOWMKQ #Maltempo https://t.co/…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:06:27 +0000 2018',
+            'urls': "['https://t.co/qc9bbOWMKQ', 'https://t.co/']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('corriereveneto', 'NN'), (':', ':'), ('#', '#'), ('Venezia', 'NNP'), (',', ','), ('basilica', 'NN'), ('di', 'JJ'), ('San', 'NNP'), ('Marco', 'NNP'), ('allagata', 'NN'), (':', ':'), ('danni', 'NN'), ('al', 'NN'), ('pavimento', 'NN'), ('in', 'IN'), ('mosaico', 'NNP'), ('WEBSITE', 'NNP'), ('#', '#'), ('Maltempo', 'NNP'), ('WEBSITE…', 'NNP')]"
+    }, {
+            'text': 'A quanto pare le cioccolate ciobar sono diventate la cosa più difficile da trovare in questo mondo, dato che sono d… https://t.co/3ZFMUE076T',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:06:27 +0000 2018',
+            'urls': "['https://t.co/3ZFMUE076T']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('A', 'DT'), ('quanto', 'NN'), ('pare', 'NN'), ('le', 'JJ'), ('cioccolate', 'NN'), ('ciobar', 'NN'), ('sono', 'NN'), ('diventate', 'NN'), ('la', 'NN'), ('cosa', 'NN'), ('più', 'NN'), ('difficile', 'NN'), ('da', 'NN'), ('trovare', 'NN'), ('in', 'IN'), ('questo', 'NN'), ('mondo', 'NN'), (',', ','), ('dato', 'NN'), ('che', 'NN'), ('sono', 'NN'), ('d…', 'NN'), ('WEBSITE', 'NNP')]"
+    }, {
+            'text': '💬🏀\n\nGianluca Tucci in conferenza stampa in vista del big match di #BasketballCL 🌍 tra Umana #Reyer #Venezia 🇮🇹 e… https://t.co/CzFqsxLZmr',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:06:38 +0000 2018',
+            'urls': "['https://t.co/CzFqsxLZmr']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('💬🏀', 'JJ'), ('Gianluca', 'NNP'), ('Tucci', 'NNP'), ('in', 'IN'), ('conferenza', 'NN'), ('stampa', 'NN'), ('in', 'IN'), ('vista', 'NN'), ('del', 'NN'), ('big', 'JJ'), ('match', 'NN'), ('di', 'NN'), ('#', '#'), ('BasketballCL', 'NNP'), ('🌍', 'NNP'), ('tra', 'NNP'), ('Umana', 'NNP'), ('#', '#'), ('Reyer', 'NNP'), ('#', '#'), ('Venezia', 'NNP'), ('🇮🇹', 'NNP'), ('e…', 'VBZ'), ('WEBSITE', 'NNP')]"
+    }, {
+            'text': "RT @TgrVeneto: #29ottobre #Maltempo #Venezia Alla Fondazione Querini Stampalia, la marea entra a cascata nell'Area Scarpa, gioiello dell'ar…",
+            'language': 'en',
+            'time': 'Tue Oct 30 17:06:42 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'TgrVeneto\', \'NNP\'), (\':\', \':\'), (\'#\', \'#\'), (\'29ottobre\', \'CD\'), (\'#\', \'#\'), (\'Maltempo\', \'NNP\'), (\'#\', \'#\'), (\'Venezia\', \'NNP\'), (\'Alla\', \'NNP\'), (\'Fondazione\', \'NNP\'), (\'Querini\', \'NNP\'), (\'Stampalia\', \'NNP\'), (\',\', \',\'), (\'la\', \'NNP\'), (\'marea\', \'FW\'), (\'entra\', \'VBZ\'), (\'a\', \'DT\'), (\'cascata\', \'NN\'), ("nell\'Area", \'NN\'), (\'Scarpa\', \'NNP\'), (\',\', \',\'), (\'gioiello\', \'NN\'), ("dell\'ar…", \'NN\')]'
+    }, {
+            'text': 'RT @inprocinto: Poche città (o forse nessun’altra) riuscirebbero a vivere e continuare a funzionare sommerse da più di un metro e mezzo di…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:06:50 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('inprocinto', 'NN'), (':', ':'), ('Poche', 'NNP'), ('città', 'NN'), ('(', '('), ('o', 'JJ'), ('forse', 'NN'), ('nessun', 'NN'), ('’', 'NNP'), ('altra', 'NN'), (')', ')'), ('riuscirebbero', 'VBZ'), ('a', 'DT'), ('vivere', 'JJ'), ('e', 'NN'), ('continuare', 'NN'), ('a', 'DT'), ('funzionare', 'JJ'), ('sommerse', 'NN'), ('da', 'NN'), ('più', 'NN'), ('di', 'NN'), ('un', 'JJ'), ('metro', 'NN'), ('e', 'NN'), ('mezzo', 'NN'), ('di…', 'NN')]"
+    }, {
+            'text': 'RT @Scalalexandra: VOLETE SAPERE DOVE FINISCONO I NOSTRI SOLDI?\nE ci sono ancora 1000 casi come questo.\n#Mose \n#venezia \n#vergogna \n#Sapeva…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:06:55 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('Scalalexandra', 'NNP'), (':', ':'), ('VOLETE', 'NNP'), ('SAPERE', 'NNP'), ('DOVE', 'NNP'), ('FINISCONO', 'NNP'), ('I', 'PRP'), ('NOSTRI', 'NNP'), ('SOLDI', 'NNP'), ('?', '.'), ('E', 'NNP'), ('ci', 'NN'), ('sono', 'NN'), ('ancora', 'NN'), ('1000', 'CD'), ('casi', 'NN'), ('come', 'VBN'), ('questo', 'RB'), ('.', '.'), ('#', '#'), ('Mose', 'NNP'), ('#', '#'), ('venezia', 'RB'), ('#', '#'), ('vergogna', 'JJ'), ('#', '#'), ('Sapeva…', 'NNP')]"
+    }, {
+            'text': 'RT @comunevenezia: #AcquaAlta #29Ottobre | Arriva la conferma: domani, mercoledì 31 ottobre, riaprono scuole e palestre a #Venezia\n\n⚠ Resta…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:07:09 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('comunevenezia', 'NN'), (':', ':'), ('#', '#'), ('AcquaAlta', 'NNP'), ('#', '#'), ('29Ottobre', 'CD'), ('|', 'JJ'), ('Arriva', 'NNP'), ('la', 'NN'), ('conferma', 'NN'), (':', ':'), ('domani', 'NN'), (',', ','), ('mercoledì', 'FW'), ('31', 'CD'), ('ottobre', 'NN'), (',', ','), ('riaprono', 'JJ'), ('scuole', 'NN'), ('e', 'NN'), ('palestre', 'VBP'), ('a', 'DT'), ('#', '#'), ('Venezia', 'NNP'), ('⚠', 'NNP'), ('Resta…', 'NNP')]"
+    }, {
+            'text': "RT @acqu_marina: Troppo bella questa vignetta di @MarioneSospeso \nNon gli dispiacera' se la commento con video e tweet di una VERA e BRAVA…",
+            'language': 'en',
+            'time': 'Tue Oct 30 17:07:23 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'acqu_marina\', \'NN\'), (\':\', \':\'), (\'Troppo\', \'NNP\'), (\'bella\', \'NN\'), (\'questa\', \'NN\'), (\'vignetta\', \'NN\'), (\'di\', \'NN\'), (\'@\', \'NNP\'), (\'MarioneSospeso\', \'NNP\'), (\'Non\', \'NNP\'), (\'gli\', \'VBD\'), (\'dispiacera\', \'NN\'), ("\'", "\'\'"), (\'se\', \'JJ\'), (\'la\', \'NN\'), (\'commento\', \'NN\'), (\'con\', \'NN\'), (\'video\', \'NN\'), (\'e\', \'FW\'), (\'tweet\', \'NN\'), (\'di\', \'FW\'), (\'una\', \'JJ\'), (\'VERA\', \'NNP\'), (\'e\', \'NN\'), (\'BRAVA…\', \'NNP\')]'
+    }, {
+            'text': '#maltempo #Veneto Domani #31ottobre scuole chiuse nel Bellunese; nei comuni di Fossalta di Piave, Noventa di Piave,… https://t.co/z9LhjvqsGg',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:07:26 +0000 2018',
+            'urls': "['https://t.co/z9LhjvqsGg']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('#', '#'), ('maltempo', 'JJ'), ('#', '#'), ('Veneto', 'NNP'), ('Domani', 'NNP'), ('#', '#'), ('31ottobre', 'CD'), ('scuole', 'NN'), ('chiuse', 'NN'), ('nel', 'IN'), ('Bellunese', 'NNP'), (';', ':'), ('nei', 'CC'), ('comuni', 'VB'), ('di', 'JJ'), ('Fossalta', 'NNP'), ('di', 'NN'), ('Piave', 'NNP'), (',', ','), ('Noventa', 'NNP'), ('di', 'NN'), ('Piave', 'NNP'), (',', ','), ('…', 'NNP'), ('WEBSITE', 'NNP')]"
+    }, {
+            'text': 'RT @bottegamanuzio: Come è stata realizzata #Venezia?\nQuali tecniche sono state utilizzate per superare l’ostacolo del suolo fangoso?\nLo sc…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:07:43 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('bottegamanuzio', 'NN'), (':', ':'), ('Come', 'NNP'), ('è', 'NNP'), ('stata', 'NNP'), ('realizzata', 'NN'), ('#', '#'), ('Venezia', 'NNP'), ('?', '.'), ('Quali', 'NNP'), ('tecniche', 'NN'), ('sono', 'NN'), ('state', 'NN'), ('utilizzate', 'JJ'), ('per', 'IN'), ('superare', 'NN'), ('l', 'NN'), ('’', 'NNP'), ('ostacolo', 'VBZ'), ('del', 'FW'), ('suolo', 'NN'), ('fangoso', 'NN'), ('?', '.'), ('Lo', 'NNP'), ('sc…', 'NN')]"
+    }, {
+            'text': 'RT @sergioandreola: "Aqua Granda" \nAcqua Alta,Venezia,1960\xa0\nPh.© Gianni Berengo Gardin https://t.co/uH24kqQWQs',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:07:47 +0000 2018',
+            'urls': "['https://t.co/uH24kqQWQs']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'sergioandreola\', \'NN\'), (\':\', \':\'), (\'``\', \'``\'), (\'Aqua\', \'NNP\'), (\'Granda\', \'NNP\'), ("\'\'", "\'\'"), (\'Acqua\', \'NNP\'), (\'Alta\', \'NNP\'), (\',\', \',\'), (\'Venezia,1960\', \'NNP\'), (\'Ph.©\', \'NNP\'), (\'Gianni\', \'NNP\'), (\'Berengo\', \'NNP\'), (\'Gardin\', \'NNP\'), (\'WEBSITE\', \'NNP\')]'
+    }, {
+            'text': "RT @AntPietrogrande: #Venezia Piazza San Marco ora.\nRicevo da un'amica https://t.co/GLzY697EEV",
+            'language': 'en',
+            'time': 'Tue Oct 30 17:07:49 +0000 2018',
+            'urls': "['https://t.co/GLzY697EEV']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'AntPietrogrande\', \'NNP\'), (\':\', \':\'), (\'#\', \'#\'), (\'Venezia\', \'NNP\'), (\'Piazza\', \'NNP\'), (\'San\', \'NNP\'), (\'Marco\', \'NNP\'), (\'ora\', \'NN\'), (\'.\', \'.\'), (\'Ricevo\', \'NNP\'), (\'da\', \'NN\'), ("un\'amica", \'NN\'), (\'WEBSITE\', \'NNP\')]'
+    }, {
+            'text': "RT @arialuce1: La prima punta massima di marea è stata toccata. Ora l'acqua scende fino alle ore 19.\nPasseremo anche la prossima prevista p…",
+            'language': 'en',
+            'time': 'Tue Oct 30 17:07:52 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'arialuce1\', \'NN\'), (\':\', \':\'), (\'La\', \'NNP\'), (\'prima\', \'VBZ\'), (\'punta\', \'FW\'), (\'massima\', \'FW\'), (\'di\', \'FW\'), (\'marea\', \'FW\'), (\'è\', \'FW\'), (\'stata\', \'NN\'), (\'toccata\', \'NN\'), (\'.\', \'.\'), (\'Ora\', \'NNP\'), ("l\'acqua", \'JJ\'), (\'scende\', \'NN\'), (\'fino\', \'NN\'), (\'alle\', \'VBD\'), (\'ore\', \'RB\'), (\'19\', \'CD\'), (\'.\', \'.\'), (\'Passeremo\', \'NNP\'), (\'anche\', \'NN\'), (\'la\', \'NN\'), (\'prossima\', \'FW\'), (\'prevista\', \'NN\'), (\'p…\', \'NN\')]'
+    }, {
+            'text': 'RT @matteorenzi: Dire NO alla Tav non significa dire NO solo alla Torino-Lione, ma dire no alla Venezia-Milano-Parigi. I grilloleghisti vog…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:08:10 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('matteorenzi', 'NN'), (':', ':'), ('Dire', 'NNP'), ('NO', 'NNP'), ('alla', 'NN'), ('Tav', 'NNP'), ('non', 'NN'), ('significa', 'NN'), ('dire', 'VBZ'), ('NO', 'NNP'), ('solo', 'NN'), ('alla', 'NN'), ('Torino-Lione', 'CD'), (',', ','), ('ma', 'FW'), ('dire', 'VBZ'), ('no', 'DT'), ('alla', 'NN'), ('Venezia-Milano-Parigi', 'NNP'), ('.', '.'), ('I', 'PRP'), ('grilloleghisti', 'VBP'), ('vog…', 'NNS')]"
+    }, {
+            'text': 'RT @carlaruocco1: IL MOSE: LA DIGA DEGLI SPRECHI\n\nIn questi giorni l’acqua alta è tornata ad allagare Venezia, il problema doveva essere ri…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:08:21 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('carlaruocco1', 'NN'), (':', ':'), ('IL', 'NNP'), ('MOSE', 'NNP'), (':', ':'), ('LA', 'NNP'), ('DIGA', 'NNP'), ('DEGLI', 'NNP'), ('SPRECHI', 'NNP'), ('In', 'IN'), ('questi', 'JJ'), ('giorni', 'NN'), ('l', 'NN'), ('’', 'NNP'), ('acqua', 'VBZ'), ('alta', 'JJ'), ('è', 'NNP'), ('tornata', 'NN'), ('ad', 'NN'), ('allagare', 'NN'), ('Venezia', 'NNP'), (',', ','), ('il', 'NN'), ('problema', 'NN'), ('doveva', 'NN'), ('essere', 'RB'), ('ri…', 'VB')]"
+    }, {
+            'text': 'Venezia, il giorno dopo la marea da 156 cm https://t.co/8l6Yxtzezd',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:08:22 +0000 2018',
+            'urls': "['https://t.co/8l6Yxtzezd']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('Venezia', 'NNP'), (',', ','), ('il', 'NN'), ('giorno', 'NN'), ('dopo', 'NN'), ('la', 'FW'), ('marea', 'FW'), ('da', 'FW'), ('156', 'CD'), ('cm', 'NN'), ('WEBSITE', 'NNP')]"
+    }, {
+            'text': 'RT @sergioandreola: "Aqua Granda" \nAcqua Alta,Venezia,1960\xa0\nPh.© Gianni Berengo Gardin https://t.co/uH24kqQWQs',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:08:24 +0000 2018',
+            'urls': "['https://t.co/uH24kqQWQs']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'sergioandreola\', \'NN\'), (\':\', \':\'), (\'``\', \'``\'), (\'Aqua\', \'NNP\'), (\'Granda\', \'NNP\'), ("\'\'", "\'\'"), (\'Acqua\', \'NNP\'), (\'Alta\', \'NNP\'), (\',\', \',\'), (\'Venezia,1960\', \'NNP\'), (\'Ph.©\', \'NNP\'), (\'Gianni\', \'NNP\'), (\'Berengo\', \'NNP\'), (\'Gardin\', \'NNP\'), (\'WEBSITE\', \'NNP\')]'
+    }, {
+            'text': 'RT @inprocinto: Poche città (o forse nessun’altra) riuscirebbero a vivere e continuare a funzionare sommerse da più di un metro e mezzo di…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:08:34 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('inprocinto', 'NN'), (':', ':'), ('Poche', 'NNP'), ('città', 'NN'), ('(', '('), ('o', 'JJ'), ('forse', 'NN'), ('nessun', 'NN'), ('’', 'NNP'), ('altra', 'NN'), (')', ')'), ('riuscirebbero', 'VBZ'), ('a', 'DT'), ('vivere', 'JJ'), ('e', 'NN'), ('continuare', 'NN'), ('a', 'DT'), ('funzionare', 'JJ'), ('sommerse', 'NN'), ('da', 'NN'), ('più', 'NN'), ('di', 'NN'), ('un', 'JJ'), ('metro', 'NN'), ('e', 'NN'), ('mezzo', 'NN'), ('di…', 'NN')]"
+    }, {
+            'text': 'RT @matteorenzi: Dire NO alla Tav non significa dire NO solo alla Torino-Lione, ma dire no alla Venezia-Milano-Parigi. I grilloleghisti vog…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:08:47 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('matteorenzi', 'NN'), (':', ':'), ('Dire', 'NNP'), ('NO', 'NNP'), ('alla', 'NN'), ('Tav', 'NNP'), ('non', 'NN'), ('significa', 'NN'), ('dire', 'VBZ'), ('NO', 'NNP'), ('solo', 'NN'), ('alla', 'NN'), ('Torino-Lione', 'CD'), (',', ','), ('ma', 'FW'), ('dire', 'VBZ'), ('no', 'DT'), ('alla', 'NN'), ('Venezia-Milano-Parigi', 'NNP'), ('.', '.'), ('I', 'PRP'), ('grilloleghisti', 'VBP'), ('vog…', 'NNS')]"
+    }, {
+            'text': 'RT @inprocinto: Poche città (o forse nessun’altra) riuscirebbero a vivere e continuare a funzionare sommerse da più di un metro e mezzo di…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:08:59 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('inprocinto', 'NN'), (':', ':'), ('Poche', 'NNP'), ('città', 'NN'), ('(', '('), ('o', 'JJ'), ('forse', 'NN'), ('nessun', 'NN'), ('’', 'NNP'), ('altra', 'NN'), (')', ')'), ('riuscirebbero', 'VBZ'), ('a', 'DT'), ('vivere', 'JJ'), ('e', 'NN'), ('continuare', 'NN'), ('a', 'DT'), ('funzionare', 'JJ'), ('sommerse', 'NN'), ('da', 'NN'), ('più', 'NN'), ('di', 'NN'), ('un', 'JJ'), ('metro', 'NN'), ('e', 'NN'), ('mezzo', 'NN'), ('di…', 'NN')]"
+    }, {
+            'text': 'RT @Scalalexandra: VOLETE SAPERE DOVE FINISCONO I NOSTRI SOLDI?\nE ci sono ancora 1000 casi come questo.\n#Mose \n#venezia \n#vergogna \n#Sapeva…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:09:01 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('Scalalexandra', 'NNP'), (':', ':'), ('VOLETE', 'NNP'), ('SAPERE', 'NNP'), ('DOVE', 'NNP'), ('FINISCONO', 'NNP'), ('I', 'PRP'), ('NOSTRI', 'NNP'), ('SOLDI', 'NNP'), ('?', '.'), ('E', 'NNP'), ('ci', 'NN'), ('sono', 'NN'), ('ancora', 'NN'), ('1000', 'CD'), ('casi', 'NN'), ('come', 'VBN'), ('questo', 'RB'), ('.', '.'), ('#', '#'), ('Mose', 'NNP'), ('#', '#'), ('venezia', 'RB'), ('#', '#'), ('vergogna', 'JJ'), ('#', '#'), ('Sapeva…', 'NNP')]"
+    }, {
+            'text': 'Errebi: FBC Unione Venezia: Comunicato web [ripubblicazion... https://t.co/Es23ddJLZV',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:09:02 +0000 2018',
+            'urls': "['https://t.co/Es23ddJLZV']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('Errebi', 'NN'), (':', ':'), ('FBC', 'NNP'), ('Unione', 'NNP'), ('Venezia', 'NNP'), (':', ':'), ('Comunicato', 'NNP'), ('web', 'WRB'), ('[', 'JJ'), ('ripubblicazion', 'NN'), ('...', ':'), ('WEBSITE', 'NNP')]"
+    }, {
+            'text': "RT @acqu_marina: Troppo bella questa vignetta di @MarioneSospeso \nNon gli dispiacera' se la commento con video e tweet di una VERA e BRAVA…",
+            'language': 'en',
+            'time': 'Tue Oct 30 17:09:05 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'acqu_marina\', \'NN\'), (\':\', \':\'), (\'Troppo\', \'NNP\'), (\'bella\', \'NN\'), (\'questa\', \'NN\'), (\'vignetta\', \'NN\'), (\'di\', \'NN\'), (\'@\', \'NNP\'), (\'MarioneSospeso\', \'NNP\'), (\'Non\', \'NNP\'), (\'gli\', \'VBD\'), (\'dispiacera\', \'NN\'), ("\'", "\'\'"), (\'se\', \'JJ\'), (\'la\', \'NN\'), (\'commento\', \'NN\'), (\'con\', \'NN\'), (\'video\', \'NN\'), (\'e\', \'FW\'), (\'tweet\', \'NN\'), (\'di\', \'FW\'), (\'una\', \'JJ\'), (\'VERA\', \'NNP\'), (\'e\', \'NN\'), (\'BRAVA…\', \'NNP\')]'
+    }, {
+            'text': 'RT @matteorenzi: Dire NO alla Tav non significa dire NO solo alla Torino-Lione, ma dire no alla Venezia-Milano-Parigi. I grilloleghisti vog…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:09:07 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('matteorenzi', 'NN'), (':', ':'), ('Dire', 'NNP'), ('NO', 'NNP'), ('alla', 'NN'), ('Tav', 'NNP'), ('non', 'NN'), ('significa', 'NN'), ('dire', 'VBZ'), ('NO', 'NNP'), ('solo', 'NN'), ('alla', 'NN'), ('Torino-Lione', 'CD'), (',', ','), ('ma', 'FW'), ('dire', 'VBZ'), ('no', 'DT'), ('alla', 'NN'), ('Venezia-Milano-Parigi', 'NNP'), ('.', '.'), ('I', 'PRP'), ('grilloleghisti', 'VBP'), ('vog…', 'NNS')]"
+    }, {
+            'text': "RT @PetraReski: L'effetto favoloso delle grandi opere e della salvaguardia di #Venezia . 8 miliardi per il #MOSE. 1 miliardo di tangenti. O…",
+            'language': 'en',
+            'time': 'Tue Oct 30 17:09:10 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'PetraReski\', \'NNP\'), (\':\', \':\'), ("L\'effetto", \'NNP\'), (\'favoloso\', \'VBZ\'), (\'delle\', \'FW\'), (\'grandi\', \'NN\'), (\'opere\', \'RB\'), (\'e\', \'VBZ\'), (\'della\', \'NN\'), (\'salvaguardia\', \'NN\'), (\'di\', \'NN\'), (\'#\', \'#\'), (\'Venezia\', \'NNP\'), (\'.\', \'.\'), (\'8\', \'CD\'), (\'miliardi\', \'NN\'), (\'per\', \'IN\'), (\'il\', \'NN\'), (\'#\', \'#\'), (\'MOSE\', \'NNP\'), (\'.\', \'.\'), (\'1\', \'CD\'), (\'miliardo\', \'JJ\'), (\'di\', \'NN\'), (\'tangenti\', \'NN\'), (\'.\', \'.\'), (\'O…\', \'CC\')]'
+    }, {
+            'text': 'RT @carlaruocco1: IL MOSE: LA DIGA DEGLI SPRECHI\n\nIn questi giorni l’acqua alta è tornata ad allagare Venezia, il problema doveva essere ri…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:09:15 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('carlaruocco1', 'NN'), (':', ':'), ('IL', 'NNP'), ('MOSE', 'NNP'), (':', ':'), ('LA', 'NNP'), ('DIGA', 'NNP'), ('DEGLI', 'NNP'), ('SPRECHI', 'NNP'), ('In', 'IN'), ('questi', 'JJ'), ('giorni', 'NN'), ('l', 'NN'), ('’', 'NNP'), ('acqua', 'VBZ'), ('alta', 'JJ'), ('è', 'NNP'), ('tornata', 'NN'), ('ad', 'NN'), ('allagare', 'NN'), ('Venezia', 'NNP'), (',', ','), ('il', 'NN'), ('problema', 'NN'), ('doveva', 'NN'), ('essere', 'RB'), ('ri…', 'VB')]"
+    }, {
+            'text': 'RT @ilmessaggeroit: #venezia, acqua alta nella #basilica di san marco: #danni a pavimento e mosaico https://t.co/BlZvNMbsfn',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:09:42 +0000 2018',
+            'urls': "['https://t.co/BlZvNMbsfn']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('ilmessaggeroit', 'NN'), (':', ':'), ('#', '#'), ('venezia', 'NN'), (',', ','), ('acqua', 'JJ'), ('alta', 'NN'), ('nella', 'NN'), ('#', '#'), ('basilica', 'NN'), ('di', 'VBZ'), ('san', 'JJ'), ('marco', 'NN'), (':', ':'), ('#', '#'), ('danni', 'VB'), ('a', 'DT'), ('pavimento', 'NN'), ('e', 'NN'), ('mosaico', 'CD'), ('WEBSITE', 'NNP')]"
+    }, {
+            'text': '@SkyTG24 Venezia, ma a cosa serve il #MOSE🙃',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:09:48 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('@', 'JJ'), ('SkyTG24', 'NNP'), ('Venezia', 'NNP'), (',', ','), ('ma', 'VBZ'), ('a', 'DT'), ('cosa', 'NN'), ('serve', 'NN'), ('il', 'NN'), ('#', '#'), ('MOSE🙃', 'NNP')]"
+    }, {
+            'text': 'RT @gq_gianni: Non siamo a Venezia ma Roma  stamane, dopo un brevissimo temporale, ecco la situazione a GregorioVII nei pressi di San Pietr…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:10:22 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('gq_gianni', 'NN'), (':', ':'), ('Non', 'NNP'), ('siamo', 'VBZ'), ('a', 'DT'), ('Venezia', 'NNP'), ('ma', 'NN'), ('Roma', 'NNP'), ('stamane', 'NN'), (',', ','), ('dopo', 'NN'), ('un', 'JJ'), ('brevissimo', 'NN'), ('temporale', 'NN'), (',', ','), ('ecco', 'NN'), ('la', 'NN'), ('situazione', 'VBD'), ('a', 'DT'), ('GregorioVII', 'NNP'), ('nei', 'NN'), ('pressi', 'NN'), ('di', 'VBZ'), ('San', 'NNP'), ('Pietr…', 'NNP')]"
+    }, {
+            'text': '@sottoinchiesta @manufalcetti @Radio1Rai @tomasomontanari @luca_difra @mvbrambilla @annaritatateo @andrea_cangini e… https://t.co/j9QfVmKUat',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:10:30 +0000 2018',
+            'urls': "['https://t.co/j9QfVmKUat']",
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('@', 'NN'), ('sottoinchiesta', 'NN'), ('@', 'NNP'), ('manufalcetti', 'NN'), ('@', 'NNP'), ('Radio1Rai', 'NNP'), ('@', 'NNP'), ('tomasomontanari', 'NN'), ('@', 'NNP'), ('luca_difra', 'VBZ'), ('@', 'NNP'), ('mvbrambilla', 'NN'), ('@', 'NNP'), ('annaritatateo', 'NN'), ('@', 'NNP'), ('andrea_cangini', 'NN'), ('e…', 'NN'), ('WEBSITE', 'NNP')]"
+    }, {
+            'text': 'RT @inprocinto: Poche città (o forse nessun’altra) riuscirebbero a vivere e continuare a funzionare sommerse da più di un metro e mezzo di…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:10:31 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('inprocinto', 'NN'), (':', ':'), ('Poche', 'NNP'), ('città', 'NN'), ('(', '('), ('o', 'JJ'), ('forse', 'NN'), ('nessun', 'NN'), ('’', 'NNP'), ('altra', 'NN'), (')', ')'), ('riuscirebbero', 'VBZ'), ('a', 'DT'), ('vivere', 'JJ'), ('e', 'NN'), ('continuare', 'NN'), ('a', 'DT'), ('funzionare', 'JJ'), ('sommerse', 'NN'), ('da', 'NN'), ('più', 'NN'), ('di', 'NN'), ('un', 'JJ'), ('metro', 'NN'), ('e', 'NN'), ('mezzo', 'NN'), ('di…', 'NN')]"
+    }, {
+            'text': "RT @RaiNews: Maltempo. A #Venezia acqua alta nella Basilica di #SanMarco:  danneggiati l'antico pavimento a mosaico, il battistero e la cap…",
+            'language': 'en',
+            'time': 'Tue Oct 30 17:10:35 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'RaiNews\', \'NNP\'), (\':\', \':\'), (\'Maltempo\', \'NNP\'), (\'.\', \'.\'), (\'A\', \'NNP\'), (\'#\', \'#\'), (\'Venezia\', \'NNP\'), (\'acqua\', \'NN\'), (\'alta\', \'NN\'), (\'nella\', \'NN\'), (\'Basilica\', \'NNP\'), (\'di\', \'VBZ\'), (\'#\', \'#\'), (\'SanMarco\', \'NNP\'), (\':\', \':\'), (\'danneggiati\', \'NN\'), ("l\'antico", \'VBZ\'), (\'pavimento\', \'IN\'), (\'a\', \'DT\'), (\'mosaico\', \'NN\'), (\',\', \',\'), (\'il\', \'NN\'), (\'battistero\', \'NN\'), (\'e\', \'NN\'), (\'la\', \'NN\'), (\'cap…\', \'NN\')]'
+    }, {
+            'text': '@SkyTG24 #Venezia, ma a cosa serve il #MOSE?🙃',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:10:41 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('@', 'JJ'), ('SkyTG24', 'NNP'), ('#', '#'), ('Venezia', 'NNP'), (',', ','), ('ma', 'VBZ'), ('a', 'DT'), ('cosa', 'NN'), ('serve', 'NN'), ('il', 'NN'), ('#', '#'), ('MOSE', 'NNP'), ('?', '.'), ('🙃', 'NN')]"
+    }, {
+            "text": "RT @SkyTG24: Le impressionanti immagini di piazza San Marco a #Venezia sommersa dall'acqua alta \u2b07\ufe0f https://t.co/SABUmLtnNQ",
+            "language": "en",
+            "time": "Tue Oct 30 18:26:26 +0000 2018",
+            "urls": "['https://t.co/SABUmLtnNQ']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('SkyTG24', 'NNP'), (':', ':'), ('Le', 'NNP'), ('impressionanti', 'VBP'), ('immagini', 'JJ'), ('di', 'NN'), ('piazza', 'NN'), ('San', 'NNP'), ('Marco', 'NNP'), ('a', 'DT'), ('#', '#'), ('Venezia', 'NNP'), ('sommersa', 'NN'), (\"dall'acqua\", 'NN'), ('alta', 'NN'), ('\u2b07\ufe0f', 'NNP'), ('WEBSITE', 'NNP')]"
+        },
+        {
+            "text": "RT @PasqualeTotaro: Ci\u00f2 che rende bello il deserto, disse il piccolo principe, \u00e8 che da qualche parte nasconde un pozzo.\nAntoine de Saint-E\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:26:28 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('PasqualeTotaro', 'NNP'), (':', ':'), ('Ci\u00f2', 'NNP'), ('che', 'NN'), ('rende', 'NN'), ('bello', 'NN'), ('il', 'NN'), ('deserto', 'NN'), (',', ','), ('disse', 'NN'), ('il', 'NN'), ('piccolo', 'NN'), ('principe', 'NN'), (',', ','), ('\u00e8', 'NNP'), ('che', 'NN'), ('da', 'NN'), ('qualche', 'NN'), ('parte', 'NN'), ('nasconde', 'JJ'), ('un', 'JJ'), ('pozzo', 'NN'), ('.', '.'), ('Antoine', 'NNP'), ('de', 'IN'), ('Saint-E\u2026', 'NNP')]"
+        },
+        {
+            "text": "RT @fabio1963ve: Sono nato con l'acqua alta. Uscivamo di scuola, ci toglievamo le scarpe, i calzini ed arrotalavamo i pantaloni e si affron\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:26:29 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('fabio1963ve', 'NN'), (':', ':'), ('Sono', 'NNP'), ('nato', 'MD'), ('con', 'VB'), (\"l'acqua\", 'JJ'), ('alta', 'NN'), ('.', '.'), ('Uscivamo', 'NNP'), ('di', 'JJ'), ('scuola', 'NN'), (',', ','), ('ci', 'NN'), ('toglievamo', 'NN'), ('le', 'NN'), ('scarpe', 'NN'), (',', ','), ('i', 'JJ'), ('calzini', 'VBP'), ('ed', 'JJ'), ('arrotalavamo', 'NN'), ('i', 'NN'), ('pantaloni', 'VBP'), ('e', 'NN'), ('si', 'NN'), ('affron\u2026', 'NN')]"
+        },
+        {
+            "text": "Vorrei per soli 6mesi kim Jong Un commissario straordinario per Venezia!conrispetto",
+            "language": "en",
+            "time": "Tue Oct 30 18:26:47 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('Vorrei', 'NNP'), ('per', 'IN'), ('soli', 'NN'), ('6mesi', 'CD'), ('kim', 'NN'), ('Jong', 'NNP'), ('Un', 'NNP'), ('commissario', 'NN'), ('straordinario', 'NN'), ('per', 'IN'), ('Venezia', 'NNP'), ('!', '.'), ('conrispetto', 'NN')]"
+        },
+        {
+            "text": "RT @sottoinchiesta: A @sottoinchiesta @manufalcetti su @Radio1Rai #dannimaltempo #Venezia Tiziano Graziottin @tomasomontanari #Liguria @luc\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:26:48 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('sottoinchiesta', 'NN'), (':', ':'), ('A', 'DT'), ('@', 'NN'), ('sottoinchiesta', 'NN'), ('@', 'NNP'), ('manufalcetti', 'NN'), ('su', 'NN'), ('@', 'NNP'), ('Radio1Rai', 'NNP'), ('#', '#'), ('dannimaltempo', 'JJ'), ('#', '#'), ('Venezia', 'NNP'), ('Tiziano', 'NNP'), ('Graziottin', 'NNP'), ('@', 'NNP'), ('tomasomontanari', 'NN'), ('#', '#'), ('Liguria', 'NNP'), ('@', 'NNP'), ('luc\u2026', 'NN')]"
+        },
+        {
+            "text": "RT @PasqualeTotaro: Ci\u00f2 che rende bello il deserto, disse il piccolo principe, \u00e8 che da qualche parte nasconde un pozzo.\nAntoine de Saint-E\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:27:14 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('PasqualeTotaro', 'NNP'), (':', ':'), ('Ci\u00f2', 'NNP'), ('che', 'NN'), ('rende', 'NN'), ('bello', 'NN'), ('il', 'NN'), ('deserto', 'NN'), (',', ','), ('disse', 'NN'), ('il', 'NN'), ('piccolo', 'NN'), ('principe', 'NN'), (',', ','), ('\u00e8', 'NNP'), ('che', 'NN'), ('da', 'NN'), ('qualche', 'NN'), ('parte', 'NN'), ('nasconde', 'JJ'), ('un', 'JJ'), ('pozzo', 'NN'), ('.', '.'), ('Antoine', 'NNP'), ('de', 'IN'), ('Saint-E\u2026', 'NNP')]"
+        },
+        {
+            "text": "RT @inprocinto: Poche citt\u00e0 (o forse nessun\u2019altra) riuscirebbero a vivere e continuare a funzionare sommerse da pi\u00f9 di un metro e mezzo di\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:27:23 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('inprocinto', 'NN'), (':', ':'), ('Poche', 'NNP'), ('citt\u00e0', 'NN'), ('(', '('), ('o', 'JJ'), ('forse', 'NN'), ('nessun', 'NN'), ('\u2019', 'NNP'), ('altra', 'NN'), (')', ')'), ('riuscirebbero', 'VBZ'), ('a', 'DT'), ('vivere', 'JJ'), ('e', 'NN'), ('continuare', 'NN'), ('a', 'DT'), ('funzionare', 'JJ'), ('sommerse', 'NN'), ('da', 'NN'), ('pi\u00f9', 'NN'), ('di', 'NN'), ('un', 'JJ'), ('metro', 'NN'), ('e', 'NN'), ('mezzo', 'NN'), ('di\u2026', 'NN')]"
+        },
+        {
+            "text": "RT @SkyTG24: Le impressionanti immagini di piazza San Marco a #Venezia sommersa dall'acqua alta \u2b07\ufe0f https://t.co/SABUmLtnNQ",
+            "language": "en",
+            "time": "Tue Oct 30 18:27:28 +0000 2018",
+            "urls": "['https://t.co/SABUmLtnNQ']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('SkyTG24', 'NNP'), (':', ':'), ('Le', 'NNP'), ('impressionanti', 'VBP'), ('immagini', 'JJ'), ('di', 'NN'), ('piazza', 'NN'), ('San', 'NNP'), ('Marco', 'NNP'), ('a', 'DT'), ('#', '#'), ('Venezia', 'NNP'), ('sommersa', 'NN'), (\"dall'acqua\", 'NN'), ('alta', 'NN'), ('\u2b07\ufe0f', 'NNP'), ('WEBSITE', 'NNP')]"
+        },
+        {
+            "text": "RT @MmTai7: ieri a Venezia https://t.co/Uf7gjMvAwf",
+            "language": "en",
+            "time": "Tue Oct 30 18:27:28 +0000 2018",
+            "urls": "['https://t.co/Uf7gjMvAwf']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('MmTai7', 'NNP'), (':', ':'), ('ieri', 'NN'), ('a', 'DT'), ('Venezia', 'NNP'), ('WEBSITE', 'NNP')]"
+        },
+        {
+            "text": "@patriziagatto3 @elenabulla1 @chiossi_manuela Venezia \u00e8 citt\u00e0 de laguna. Voi mette a magn\u00e0 cor barcarolo che te porta la pizza su gondola",
+            "language": "en",
+            "time": "Tue Oct 30 18:27:29 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('@', 'JJ'), ('patriziagatto3', 'NN'), ('@', 'NNP'), ('elenabulla1', 'VBZ'), ('@', 'NNP'), ('chiossi_manuela', 'NN'), ('Venezia', 'NNP'), ('\u00e8', 'NNP'), ('citt\u00e0', 'NN'), ('de', 'IN'), ('laguna', 'FW'), ('.', '.'), ('Voi', 'NNP'), ('mette', 'VBD'), ('a', 'DT'), ('magn\u00e0', 'NN'), ('cor', 'NN'), ('barcarolo', 'NN'), ('che', 'NN'), ('te', 'NN'), ('porta', 'NN'), ('la', 'FW'), ('pizza', 'FW'), ('su', 'NN'), ('gondola', 'NN')]"
+        },
+        {
+            "text": "RT @PasqualeTotaro: Ci\u00f2 che rende bello il deserto, disse il piccolo principe, \u00e8 che da qualche parte nasconde un pozzo.\nAntoine de Saint-E\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:27:47 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('PasqualeTotaro', 'NNP'), (':', ':'), ('Ci\u00f2', 'NNP'), ('che', 'NN'), ('rende', 'NN'), ('bello', 'NN'), ('il', 'NN'), ('deserto', 'NN'), (',', ','), ('disse', 'NN'), ('il', 'NN'), ('piccolo', 'NN'), ('principe', 'NN'), (',', ','), ('\u00e8', 'NNP'), ('che', 'NN'), ('da', 'NN'), ('qualche', 'NN'), ('parte', 'NN'), ('nasconde', 'JJ'), ('un', 'JJ'), ('pozzo', 'NN'), ('.', '.'), ('Antoine', 'NNP'), ('de', 'IN'), ('Saint-E\u2026', 'NNP')]"
+        },
+        {
+            "text": "RT @elenabulla1: MILIONI SPESI PER AVERE VENEZIA ALLAGATA\nIL MOSE a VENEZIA 29/10/2018\nuna situazione surreale \n\"Mare d'inverno\" https://t.\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:27:51 +0000 2018",
+            "urls": "['https://t.']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('elenabulla1', 'NN'), (':', ':'), ('MILIONI', 'NNP'), ('SPESI', 'NNP'), ('PER', 'NNP'), ('AVERE', 'NNP'), ('VENEZIA', 'NNP'), ('ALLAGATA', 'NNP'), ('IL', 'NNP'), ('MOSE', 'NNP'), ('a', 'DT'), ('VENEZIA', 'NNP'), ('29/10/2018', 'CD'), ('una', 'JJ'), ('situazione', 'NN'), ('surreale', 'NN'), (\"''\", \"''\"), ('Mare', 'NNP'), (\"d'inverno\", 'NN'), (\"''\", \"''\"), ('WEBSITE\u2026', 'NNP')]"
+        },
+        {
+            "text": "RT @MmTai7: ieri a Venezia https://t.co/Uf7gjMvAwf",
+            "language": "en",
+            "time": "Tue Oct 30 18:27:51 +0000 2018",
+            "urls": "['https://t.co/Uf7gjMvAwf']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('MmTai7', 'NNP'), (':', ':'), ('ieri', 'NN'), ('a', 'DT'), ('Venezia', 'NNP'), ('WEBSITE', 'NNP')]"
+        },
+        {
+            "text": "RT @elenabulla1: MILIONI SPESI PER AVERE VENEZIA ALLAGATA\nIL MOSE a VENEZIA 29/10/2018\nuna situazione surreale \n\"Mare d'inverno\" https://t.\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:27:55 +0000 2018",
+            "urls": "['https://t.']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('elenabulla1', 'NN'), (':', ':'), ('MILIONI', 'NNP'), ('SPESI', 'NNP'), ('PER', 'NNP'), ('AVERE', 'NNP'), ('VENEZIA', 'NNP'), ('ALLAGATA', 'NNP'), ('IL', 'NNP'), ('MOSE', 'NNP'), ('a', 'DT'), ('VENEZIA', 'NNP'), ('29/10/2018', 'CD'), ('una', 'JJ'), ('situazione', 'NN'), ('surreale', 'NN'), (\"''\", \"''\"), ('Mare', 'NNP'), (\"d'inverno\", 'NN'), (\"''\", \"''\"), ('WEBSITE\u2026', 'NNP')]"
+        },
+        {
+            "text": "Per quale motivo.",
+            "language": "en",
+            "time": "Tue Oct 30 18:27:56 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('Per', 'NNP'), ('quale', 'NN'), ('motivo', 'NN'), ('.', '.')]"
+        },
+        {
+            "text": "RT @gq_gianni: Non siamo a Venezia ma Roma  stamane, dopo un brevissimo temporale, ecco la situazione a GregorioVII nei pressi di San Pietr\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:28:02 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('gq_gianni', 'NN'), (':', ':'), ('Non', 'NNP'), ('siamo', 'VBZ'), ('a', 'DT'), ('Venezia', 'NNP'), ('ma', 'NN'), ('Roma', 'NNP'), ('stamane', 'NN'), (',', ','), ('dopo', 'NN'), ('un', 'JJ'), ('brevissimo', 'NN'), ('temporale', 'NN'), (',', ','), ('ecco', 'NN'), ('la', 'NN'), ('situazione', 'VBD'), ('a', 'DT'), ('GregorioVII', 'NNP'), ('nei', 'NN'), ('pressi', 'NN'), ('di', 'VBZ'), ('San', 'NNP'), ('Pietr\u2026', 'NNP')]"
+        },
+        {
+            "text": "Da Venezia a Dublino. Tra horror e divertimento, la guida alla vacanza stile Halloween https://t.co/rAt8FN6Ldh",
+            "language": "en",
+            "time": "Tue Oct 30 18:28:11 +0000 2018",
+            "urls": "['https://t.co/rAt8FN6Ldh']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('Da', 'NNP'), ('Venezia', 'NNP'), ('a', 'DT'), ('Dublino', 'NNP'), ('.', '.'), ('Tra', 'NNP'), ('horror', 'NN'), ('e', 'NN'), ('divertimento', 'NN'), (',', ','), ('la', 'FW'), ('guida', 'FW'), ('alla', 'NN'), ('vacanza', 'NN'), ('stile', 'NN'), ('Halloween', 'NNP'), ('WEBSITE', 'NNP')]"
+        },
+        {
+            "text": "RT @SkyTG24: Le impressionanti immagini di piazza San Marco a #Venezia sommersa dall'acqua alta \u2b07\ufe0f https://t.co/SABUmLtnNQ",
+            "language": "en",
+            "time": "Tue Oct 30 18:28:11 +0000 2018",
+            "urls": "['https://t.co/SABUmLtnNQ']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('SkyTG24', 'NNP'), (':', ':'), ('Le', 'NNP'), ('impressionanti', 'VBP'), ('immagini', 'JJ'), ('di', 'NN'), ('piazza', 'NN'), ('San', 'NNP'), ('Marco', 'NNP'), ('a', 'DT'), ('#', '#'), ('Venezia', 'NNP'), ('sommersa', 'NN'), (\"dall'acqua\", 'NN'), ('alta', 'NN'), ('\u2b07\ufe0f', 'NNP'), ('WEBSITE', 'NNP')]"
+        },
+        {
+            "text": "Maltempo. L\u2019acqua alta inonda la Basilica di S. Marco a Venezia https://t.co/KiidhGPYNQ via @FarodiRoma",
+            "language": "en",
+            "time": "Tue Oct 30 18:28:15 +0000 2018",
+            "urls": "['https://t.co/KiidhGPYNQ']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('Maltempo', 'NNP'), ('.', '.'), ('L', 'NNP'), ('\u2019', 'NNP'), ('acqua', 'VBZ'), ('alta', 'JJ'), ('inonda', 'NN'), ('la', 'NN'), ('Basilica', 'NNP'), ('di', 'VBZ'), ('S.', 'NNP'), ('Marco', 'NNP'), ('a', 'DT'), ('Venezia', 'NNP'), ('WEBSITE', 'NNP'), ('via', 'IN'), ('@', 'NNP'), ('FarodiRoma', 'NNP')]"
+        },
+        {
+            "text": "La nuova Venezia: Basilica San Marco \"invecchiata\" di 20 anni https://t.co/SnfOSZCJjB #venezia",
+            "language": "en",
+            "time": "Tue Oct 30 18:28:21 +0000 2018",
+            "urls": "['https://t.co/SnfOSZCJjB']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('La', 'NNP'), ('nuova', 'JJ'), ('Venezia', 'NNP'), (':', ':'), ('Basilica', 'NNP'), ('San', 'NNP'), ('Marco', 'NNP'), ('``', '``'), ('invecchiata', 'NN'), (\"''\", \"''\"), ('di', 'VBZ'), ('20', 'CD'), ('anni', 'NN'), ('WEBSITE', 'NNP'), ('#', '#'), ('venezia', 'NN')]"
+        },
+        {
+            "text": "RT @inprocinto: Poche citt\u00e0 (o forse nessun\u2019altra) riuscirebbero a vivere e continuare a funzionare sommerse da pi\u00f9 di un metro e mezzo di\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:28:47 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('inprocinto', 'NN'), (':', ':'), ('Poche', 'NNP'), ('citt\u00e0', 'NN'), ('(', '('), ('o', 'JJ'), ('forse', 'NN'), ('nessun', 'NN'), ('\u2019', 'NNP'), ('altra', 'NN'), (')', ')'), ('riuscirebbero', 'VBZ'), ('a', 'DT'), ('vivere', 'JJ'), ('e', 'NN'), ('continuare', 'NN'), ('a', 'DT'), ('funzionare', 'JJ'), ('sommerse', 'NN'), ('da', 'NN'), ('pi\u00f9', 'NN'), ('di', 'NN'), ('un', 'JJ'), ('metro', 'NN'), ('e', 'NN'), ('mezzo', 'NN'), ('di\u2026', 'NN')]"
+        },
+        {
+            "text": "@Danifencer @himvhan a Venezia direttamente le barche da veri king",
+            "language": "en",
+            "time": "Tue Oct 30 18:29:00 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('@', 'JJ'), ('Danifencer', 'NNP'), ('@', 'NNP'), ('himvhan', 'VBD'), ('a', 'DT'), ('Venezia', 'NNP'), ('direttamente', 'NN'), ('le', 'NN'), ('barche', 'NN'), ('da', 'NN'), ('veri', 'NN'), ('king', 'NN')]"
+        },
+        {
+            "text": "RT @marcodipaolo96: A #Venezia oggi sono arrivati all\u2019immaginabile https://t.co/d0vL9cus60",
+            "language": "en",
+            "time": "Tue Oct 30 18:29:01 +0000 2018",
+            "urls": "['https://t.co/d0vL9cus60']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('marcodipaolo96', 'NN'), (':', ':'), ('A', 'DT'), ('#', '#'), ('Venezia', 'NNP'), ('oggi', 'FW'), ('sono', 'NN'), ('arrivati', 'IN'), ('all', 'DT'), ('\u2019', 'NNP'), ('immaginabile', 'NN'), ('WEBSITE', 'NNP')]"
+        },
+        {
+            "text": "RT @visitmuve_it: I Musei Civici hanno regolarmente riaperto! GRAZIE a tutti coloro che hanno consentito con il proprio lavoro di tutelare,\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:29:13 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('visitmuve_it', 'NN'), (':', ':'), ('I', 'PRP'), ('Musei', 'VBP'), ('Civici', 'NNP'), ('hanno', 'NN'), ('regolarmente', 'NN'), ('riaperto', 'NN'), ('!', '.'), ('GRAZIE', 'NNP'), ('a', 'DT'), ('tutti', 'JJ'), ('coloro', 'NN'), ('che', 'NN'), ('hanno', 'NN'), ('consentito', 'NN'), ('con', 'NN'), ('il', 'NN'), ('proprio', 'NN'), ('lavoro', 'VBZ'), ('di', 'JJ'), ('tutelare', 'NN'), (',', ','), ('\u2026', 'NN')]"
+        },
+        {
+            "text": "RT @repubblica: Da Venezia a Dublino. Tra horror e divertimento, la guida alla vacanza stile Halloween https://t.co/rAt8FN6Ldh",
+            "language": "en",
+            "time": "Tue Oct 30 18:29:13 +0000 2018",
+            "urls": "['https://t.co/rAt8FN6Ldh']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('repubblica', 'NN'), (':', ':'), ('Da', 'NNP'), ('Venezia', 'NNP'), ('a', 'DT'), ('Dublino', 'NNP'), ('.', '.'), ('Tra', 'NNP'), ('horror', 'NN'), ('e', 'NN'), ('divertimento', 'NN'), (',', ','), ('la', 'FW'), ('guida', 'FW'), ('alla', 'NN'), ('vacanza', 'NN'), ('stile', 'NN'), ('Halloween', 'NNP'), ('WEBSITE', 'NNP')]"
+        },
+        {
+            "text": "RT @SkyTG24: Le impressionanti immagini di piazza San Marco a #Venezia sommersa dall'acqua alta \u2b07\ufe0f https://t.co/SABUmLtnNQ",
+            "language": "en",
+            "time": "Tue Oct 30 18:29:18 +0000 2018",
+            "urls": "['https://t.co/SABUmLtnNQ']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('SkyTG24', 'NNP'), (':', ':'), ('Le', 'NNP'), ('impressionanti', 'VBP'), ('immagini', 'JJ'), ('di', 'NN'), ('piazza', 'NN'), ('San', 'NNP'), ('Marco', 'NNP'), ('a', 'DT'), ('#', '#'), ('Venezia', 'NNP'), ('sommersa', 'NN'), (\"dall'acqua\", 'NN'), ('alta', 'NN'), ('\u2b07\ufe0f', 'NNP'), ('WEBSITE', 'NNP')]"
+        },
+        {
+            "text": "RT @LuigiBrugnaro: Video \ud83c\udfa5 | Situazione #Venezia: oggi \u00e8 andata meglio ma continuiamo a monitorare la situazione con il @ICPSMVenezia \n\nSia\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:29:19 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('LuigiBrugnaro', 'NNP'), (':', ':'), ('Video', 'NNP'), ('\ud83c\udfa5', 'NNP'), ('|', 'NNP'), ('Situazione', 'NNP'), ('#', '#'), ('Venezia', 'NNP'), (':', ':'), ('oggi', 'NN'), ('\u00e8', 'NNP'), ('andata', 'NN'), ('meglio', 'NN'), ('ma', 'NN'), ('continuiamo', 'VBZ'), ('a', 'DT'), ('monitorare', 'NN'), ('la', 'NN'), ('situazione', 'NN'), ('con', 'NN'), ('il', 'NN'), ('@', 'NNP'), ('ICPSMVenezia', 'NNP'), ('Sia\u2026', 'NNP')]"
+        },
+        {
+            "text": "RT @elenabulla1: MILIONI SPESI PER AVERE VENEZIA ALLAGATA\nIL MOSE a VENEZIA 29/10/2018\nuna situazione surreale \n\"Mare d'inverno\" https://t.\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:29:24 +0000 2018",
+            "urls": "['https://t.']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('elenabulla1', 'NN'), (':', ':'), ('MILIONI', 'NNP'), ('SPESI', 'NNP'), ('PER', 'NNP'), ('AVERE', 'NNP'), ('VENEZIA', 'NNP'), ('ALLAGATA', 'NNP'), ('IL', 'NNP'), ('MOSE', 'NNP'), ('a', 'DT'), ('VENEZIA', 'NNP'), ('29/10/2018', 'CD'), ('una', 'JJ'), ('situazione', 'NN'), ('surreale', 'NN'), (\"''\", \"''\"), ('Mare', 'NNP'), (\"d'inverno\", 'NN'), (\"''\", \"''\"), ('WEBSITE\u2026', 'NNP')]"
+        },
+        {
+            "text": "Ovviamente propongo di andare a Venezia per il 1 Novembre e il meteo si ribella ok messaggio ricevuto",
+            "language": "en",
+            "time": "Tue Oct 30 18:29:32 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('Ovviamente', 'NNP'), ('propongo', 'NN'), ('di', 'NN'), ('andare', 'VBP'), ('a', 'DT'), ('Venezia', 'NNP'), ('per', 'IN'), ('il', 'NN'), ('1', 'CD'), ('Novembre', 'NNP'), ('e', 'NN'), ('il', 'NN'), ('meteo', 'NN'), ('si', 'NN'), ('ribella', 'NN'), ('ok', 'JJ'), ('messaggio', 'NN'), ('ricevuto', 'NN')]"
+        },
+        {
+            "text": "RT @comunevenezia: #Maltempo #29ottobre | la punta massima di #AcquaAlta ha raggiunto stasera i 141 cm alle ore 23.05\n\n \u26a0\ufe0f Prossimo massimo\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:29:41 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('comunevenezia', 'NN'), (':', ':'), ('#', '#'), ('Maltempo', 'NNP'), ('#', '#'), ('29ottobre', 'CD'), ('|', 'NNP'), ('la', 'NN'), ('punta', 'NN'), ('massima', 'NN'), ('di', 'JJ'), ('#', '#'), ('AcquaAlta', 'NNP'), ('ha', 'NN'), ('raggiunto', 'NN'), ('stasera', 'NN'), ('i', 'NN'), ('141', 'CD'), ('cm', 'NN'), ('alle', 'NN'), ('ore', 'RB'), ('23.05', 'CD'), ('\u26a0\ufe0f', 'JJ'), ('Prossimo', 'NNP'), ('massimo\u2026', 'NN')]"
+        },
+        {
+            "text": "iL MOSE Di VENEZiA\nGrande opera alI\u2019italiana  fa acqua da tutte le parti\ud83d\ude29",
+            "language": "en",
+            "time": "Tue Oct 30 18:29:50 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('iL', 'NN'), ('MOSE', 'NNP'), ('Di', 'NNP'), ('VENEZiA', 'NNP'), ('Grande', 'NNP'), ('opera', 'NN'), ('alI', 'NN'), ('\u2019', 'NNP'), ('italiana', 'NN'), ('fa', 'NN'), ('acqua', 'NN'), ('da', 'NN'), ('tutte', 'NN'), ('le', 'NN'), ('parti\ud83d\ude29', 'NN')]"
+        },
+        {
+            "text": "RT @elenabulla1: MILIONI SPESI PER AVERE VENEZIA ALLAGATA\nIL MOSE a VENEZIA 29/10/2018\nuna situazione surreale \n\"Mare d'inverno\" https://t.\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:29:51 +0000 2018",
+            "urls": "['https://t.']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('elenabulla1', 'NN'), (':', ':'), ('MILIONI', 'NNP'), ('SPESI', 'NNP'), ('PER', 'NNP'), ('AVERE', 'NNP'), ('VENEZIA', 'NNP'), ('ALLAGATA', 'NNP'), ('IL', 'NNP'), ('MOSE', 'NNP'), ('a', 'DT'), ('VENEZIA', 'NNP'), ('29/10/2018', 'CD'), ('una', 'JJ'), ('situazione', 'NN'), ('surreale', 'NN'), (\"''\", \"''\"), ('Mare', 'NNP'), (\"d'inverno\", 'NN'), (\"''\", \"''\"), ('WEBSITE\u2026', 'NNP')]"
+        },
+        {
+            "text": "RT @AntPietrogrande: #Venezia Piazza San Marco ora.\nRicevo da un'amica https://t.co/GLzY697EEV",
+            "language": "en",
+            "time": "Tue Oct 30 18:30:08 +0000 2018",
+            "urls": "['https://t.co/GLzY697EEV']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('AntPietrogrande', 'NNP'), (':', ':'), ('#', '#'), ('Venezia', 'NNP'), ('Piazza', 'NNP'), ('San', 'NNP'), ('Marco', 'NNP'), ('ora', 'NN'), ('.', '.'), ('Ricevo', 'NNP'), ('da', 'NN'), (\"un'amica\", 'NN'), ('WEBSITE', 'NNP')]"
+        },
+        {
+            "text": "RT @inprocinto: Poche citt\u00e0 (o forse nessun\u2019altra) riuscirebbero a vivere e continuare a funzionare sommerse da pi\u00f9 di un metro e mezzo di\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:30:27 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('inprocinto', 'NN'), (':', ':'), ('Poche', 'NNP'), ('citt\u00e0', 'NN'), ('(', '('), ('o', 'JJ'), ('forse', 'NN'), ('nessun', 'NN'), ('\u2019', 'NNP'), ('altra', 'NN'), (')', ')'), ('riuscirebbero', 'VBZ'), ('a', 'DT'), ('vivere', 'JJ'), ('e', 'NN'), ('continuare', 'NN'), ('a', 'DT'), ('funzionare', 'JJ'), ('sommerse', 'NN'), ('da', 'NN'), ('pi\u00f9', 'NN'), ('di', 'NN'), ('un', 'JJ'), ('metro', 'NN'), ('e', 'NN'), ('mezzo', 'NN'), ('di\u2026', 'NN')]"
+        },
+        {
+            "text": "RT @inprocinto: Poche citt\u00e0 (o forse nessun\u2019altra) riuscirebbero a vivere e continuare a funzionare sommerse da pi\u00f9 di un metro e mezzo di\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:30:30 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('inprocinto', 'NN'), (':', ':'), ('Poche', 'NNP'), ('citt\u00e0', 'NN'), ('(', '('), ('o', 'JJ'), ('forse', 'NN'), ('nessun', 'NN'), ('\u2019', 'NNP'), ('altra', 'NN'), (')', ')'), ('riuscirebbero', 'VBZ'), ('a', 'DT'), ('vivere', 'JJ'), ('e', 'NN'), ('continuare', 'NN'), ('a', 'DT'), ('funzionare', 'JJ'), ('sommerse', 'NN'), ('da', 'NN'), ('pi\u00f9', 'NN'), ('di', 'NN'), ('un', 'JJ'), ('metro', 'NN'), ('e', 'NN'), ('mezzo', 'NN'), ('di\u2026', 'NN')]"
+        },
+        {
+            "text": "RT @inprocinto: Poche citt\u00e0 (o forse nessun\u2019altra) riuscirebbero a vivere e continuare a funzionare sommerse da pi\u00f9 di un metro e mezzo di\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:30:33 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('inprocinto', 'NN'), (':', ':'), ('Poche', 'NNP'), ('citt\u00e0', 'NN'), ('(', '('), ('o', 'JJ'), ('forse', 'NN'), ('nessun', 'NN'), ('\u2019', 'NNP'), ('altra', 'NN'), (')', ')'), ('riuscirebbero', 'VBZ'), ('a', 'DT'), ('vivere', 'JJ'), ('e', 'NN'), ('continuare', 'NN'), ('a', 'DT'), ('funzionare', 'JJ'), ('sommerse', 'NN'), ('da', 'NN'), ('pi\u00f9', 'NN'), ('di', 'NN'), ('un', 'JJ'), ('metro', 'NN'), ('e', 'NN'), ('mezzo', 'NN'), ('di\u2026', 'NN')]"
+        },
+        {
+            "text": "Venezia \ud83d\udc94",
+            "language": "en",
+            "time": "Tue Oct 30 18:30:34 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('Venezia', 'NNP'), ('\ud83d\udc94', 'NN')]"
+        },
+        {
+            "text": "RT @inprocinto: Poche citt\u00e0 (o forse nessun\u2019altra) riuscirebbero a vivere e continuare a funzionare sommerse da pi\u00f9 di un metro e mezzo di\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:30:36 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('inprocinto', 'NN'), (':', ':'), ('Poche', 'NNP'), ('citt\u00e0', 'NN'), ('(', '('), ('o', 'JJ'), ('forse', 'NN'), ('nessun', 'NN'), ('\u2019', 'NNP'), ('altra', 'NN'), (')', ')'), ('riuscirebbero', 'VBZ'), ('a', 'DT'), ('vivere', 'JJ'), ('e', 'NN'), ('continuare', 'NN'), ('a', 'DT'), ('funzionare', 'JJ'), ('sommerse', 'NN'), ('da', 'NN'), ('pi\u00f9', 'NN'), ('di', 'NN'), ('un', 'JJ'), ('metro', 'NN'), ('e', 'NN'), ('mezzo', 'NN'), ('di\u2026', 'NN')]"
+        },
+        {
+            "text": "RT @elenabulla1: MILIONI SPESI PER AVERE VENEZIA ALLAGATA\nIL MOSE a VENEZIA 29/10/2018\nuna situazione surreale \n\"Mare d'inverno\" https://t.\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:30:37 +0000 2018",
+            "urls": "['https://t.']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('elenabulla1', 'NN'), (':', ':'), ('MILIONI', 'NNP'), ('SPESI', 'NNP'), ('PER', 'NNP'), ('AVERE', 'NNP'), ('VENEZIA', 'NNP'), ('ALLAGATA', 'NNP'), ('IL', 'NNP'), ('MOSE', 'NNP'), ('a', 'DT'), ('VENEZIA', 'NNP'), ('29/10/2018', 'CD'), ('una', 'JJ'), ('situazione', 'NN'), ('surreale', 'NN'), (\"''\", \"''\"), ('Mare', 'NNP'), (\"d'inverno\", 'NN'), (\"''\", \"''\"), ('WEBSITE\u2026', 'NNP')]"
+        },
+        {
+            "text": "Acqua alta eccezionale a Venezia il 29-10-18, e il Mose? Facciamo il punto https://t.co/p9lDWCE55D di @La Voce di Venezia",
+            "language": "en",
+            "time": "Tue Oct 30 18:30:38 +0000 2018",
+            "urls": "['https://t.co/p9lDWCE55D']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('Acqua', 'NNP'), ('alta', 'VBZ'), ('eccezionale', 'VB'), ('a', 'DT'), ('Venezia', 'NNP'), ('il', 'NN'), ('29-10-18', 'CD'), (',', ','), ('e', 'FW'), ('il', 'NNS'), ('Mose', 'NNP'), ('?', '.'), ('Facciamo', 'NNP'), ('il', 'NN'), ('punto', 'NN'), ('WEBSITE', 'NNP'), ('di', 'VBZ'), ('@', 'NNP'), ('La', 'NNP'), ('Voce', 'NNP'), ('di', 'VBZ'), ('Venezia', 'NNP')]"
+        },
+        {
+            "text": "Freia Service srl Location : Venezia VEN IT Freia Service srl ricerca impiegati addetti alla logistica per societ\u00e0\u2026 https://t.co/Ew3LDjHT4N",
+            "language": "en",
+            "time": "Tue Oct 30 18:30:38 +0000 2018",
+            "urls": "['https://t.co/Ew3LDjHT4N']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('Freia', 'NNP'), ('Service', 'NNP'), ('srl', 'VBD'), ('Location', 'NNP'), (':', ':'), ('Venezia', 'NNP'), ('VEN', 'NNP'), ('IT', 'NNP'), ('Freia', 'NNP'), ('Service', 'NNP'), ('srl', 'VBD'), ('ricerca', 'JJ'), ('impiegati', 'JJ'), ('addetti', 'NNS'), ('alla', 'NN'), ('logistica', 'VBP'), ('per', 'IN'), ('societ\u00e0\u2026', 'NN'), ('WEBSITE', 'NNP')]"
+        },
+        {
+            "text": "RT @poliziadistato: #29ottobre #maltempo a Venezia poliziotti della questura in aiuto in #piazzasanMarco a turisti rimasti bloccati a causa\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:30:46 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('poliziadistato', 'NN'), (':', ':'), ('#', '#'), ('29ottobre', 'CD'), ('#', '#'), ('maltempo', 'FW'), ('a', 'DT'), ('Venezia', 'NNP'), ('poliziotti', 'NN'), ('della', 'NN'), ('questura', 'NN'), ('in', 'IN'), ('aiuto', 'NN'), ('in', 'IN'), ('#', '#'), ('piazzasanMarco', 'NN'), ('a', 'DT'), ('turisti', 'NN'), ('rimasti', 'NN'), ('bloccati', 'VBD'), ('a', 'DT'), ('causa\u2026', 'NN')]"
+        },
+        {
+            "text": "E da bere? Acqua naturale o frizzante?",
+            "language": "en",
+            "time": "Tue Oct 30 18:30:47 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('E', 'NNP'), ('da', 'NN'), ('bere', 'RB'), ('?', '.'), ('Acqua', 'NNP'), ('naturale', 'JJ'), ('o', 'NN'), ('frizzante', 'NN'), ('?', '.')]"
+        },
+        {
+            "text": "RT @repubblica: Da Venezia a Dublino. Tra horror e divertimento, la guida alla vacanza stile Halloween https://t.co/rAt8FN6Ldh",
+            "language": "en",
+            "time": "Tue Oct 30 18:31:17 +0000 2018",
+            "urls": "['https://t.co/rAt8FN6Ldh']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('repubblica', 'NN'), (':', ':'), ('Da', 'NNP'), ('Venezia', 'NNP'), ('a', 'DT'), ('Dublino', 'NNP'), ('.', '.'), ('Tra', 'NNP'), ('horror', 'NN'), ('e', 'NN'), ('divertimento', 'NN'), (',', ','), ('la', 'FW'), ('guida', 'FW'), ('alla', 'NN'), ('vacanza', 'NN'), ('stile', 'NN'), ('Halloween', 'NNP'), ('WEBSITE', 'NNP')]"
+        },
+        {
+            "text": "RT @ferrariant: Venezia,  basilica di San Marco allagata: danni al pavimento in mosaico https://t.co/aSNTwAq4Zo",
+            "language": "en",
+            "time": "Tue Oct 30 18:31:18 +0000 2018",
+            "urls": "['https://t.co/aSNTwAq4Zo']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('ferrariant', 'NN'), (':', ':'), ('Venezia', 'NNP'), (',', ','), ('basilica', 'NN'), ('di', 'JJ'), ('San', 'NNP'), ('Marco', 'NNP'), ('allagata', 'NN'), (':', ':'), ('danni', 'NN'), ('al', 'NN'), ('pavimento', 'NN'), ('in', 'IN'), ('mosaico', 'NN'), ('WEBSITE', 'NNP')]"
+        },
+        {
+            "text": "Ma quanta gente si \u00e9 arricchita sulle spalle dei cittadini.\nHanno devastato e saccheggiato una Nazione!",
+            "language": "en",
+            "time": "Tue Oct 30 18:31:26 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('Ma', 'NNP'), ('quanta', 'NN'), ('gente', 'NN'), ('si', 'NN'), ('\u00e9', 'NNP'), ('arricchita', 'VBZ'), ('sulle', 'FW'), ('spalle', 'FW'), ('dei', 'FW'), ('cittadini', 'NN'), ('.', '.'), ('Hanno', 'NNP'), ('devastato', 'NN'), ('e', 'NN'), ('saccheggiato', 'NN'), ('una', 'JJ'), ('Nazione', 'NN'), ('!', '.')]"
+        },
+        {
+            "text": "RT @carlaruocco1: IL MOSE: LA DIGA DEGLI SPRECHI\n\nIn questi giorni l\u2019acqua alta \u00e8 tornata ad allagare Venezia, il problema doveva essere ri\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:31:31 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('carlaruocco1', 'NN'), (':', ':'), ('IL', 'NNP'), ('MOSE', 'NNP'), (':', ':'), ('LA', 'NNP'), ('DIGA', 'NNP'), ('DEGLI', 'NNP'), ('SPRECHI', 'NNP'), ('In', 'IN'), ('questi', 'JJ'), ('giorni', 'NN'), ('l', 'NN'), ('\u2019', 'NNP'), ('acqua', 'VBZ'), ('alta', 'JJ'), ('\u00e8', 'NNP'), ('tornata', 'NN'), ('ad', 'NN'), ('allagare', 'NN'), ('Venezia', 'NNP'), (',', ','), ('il', 'NN'), ('problema', 'NN'), ('doveva', 'NN'), ('essere', 'RB'), ('ri\u2026', 'VB')]"
+        },
+        {
+            "text": "2018 Venezia,   Arsenale - 16. Mostra Internazionale di Architettura #flickr https://t.co/Gmwn9SVTSD",
+            "language": "en",
+            "time": "Tue Oct 30 18:31:33 +0000 2018",
+            "urls": "['https://t.co/Gmwn9SVTSD']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('2018', 'CD'), ('Venezia', 'NNP'), (',', ','), ('Arsenale', 'NNP'), ('-', ':'), ('16', 'CD'), ('.', '.'), ('Mostra', 'NNP'), ('Internazionale', 'NNP'), ('di', 'FW'), ('Architettura', 'NNP'), ('#', '#'), ('flickr', 'NN'), ('WEBSITE', 'NNP')]"
+        },
+        {
+            "text": "ANALISI 4 E 5 GIORNATA A1-A2 : CONTINUA IL DUELLO MILANO-VENEZIA: James conduce Milano alla vittoria a Pesaro, risp\u2026 https://t.co/P27Dz8jhZe",
+            "language": "en",
+            "time": "Tue Oct 30 18:31:34 +0000 2018",
+            "urls": "['https://t.co/P27Dz8jhZe']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('ANALISI', '$'), ('4', 'CD'), ('E', 'NNP'), ('5', 'CD'), ('GIORNATA', 'NNP'), ('A1-A2', 'NN'), (':', ':'), ('CONTINUA', 'NNP'), ('IL', 'NNP'), ('DUELLO', 'NNP'), ('MILANO-VENEZIA', 'NNP'), (':', ':'), ('James', 'NNP'), ('conduce', 'VBP'), ('Milano', 'NNP'), ('alla', 'NN'), ('vittoria', 'NN'), ('a', 'DT'), ('Pesaro', 'NNP'), (',', ','), ('risp\u2026', 'VBZ'), ('WEBSITE', 'NNP')]"
+        },
+        {
+            "text": "RT @PasqualeTotaro: Ci\u00f2 che rende bello il deserto, disse il piccolo principe, \u00e8 che da qualche parte nasconde un pozzo.\nAntoine de Saint-E\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:31:56 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('PasqualeTotaro', 'NNP'), (':', ':'), ('Ci\u00f2', 'NNP'), ('che', 'NN'), ('rende', 'NN'), ('bello', 'NN'), ('il', 'NN'), ('deserto', 'NN'), (',', ','), ('disse', 'NN'), ('il', 'NN'), ('piccolo', 'NN'), ('principe', 'NN'), (',', ','), ('\u00e8', 'NNP'), ('che', 'NN'), ('da', 'NN'), ('qualche', 'NN'), ('parte', 'NN'), ('nasconde', 'JJ'), ('un', 'JJ'), ('pozzo', 'NN'), ('.', '.'), ('Antoine', 'NNP'), ('de', 'IN'), ('Saint-E\u2026', 'NNP')]"
+        },
+        {
+            "text": "RT @Greenpeace_ITA: Rapallo, Terracina, Venezia. In alcuni casi, purtroppo,contiamo le vittime di questi eventi estremi. I #cambiamenticlim\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:32:09 +0000 2018",
+            "urls": "[]",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('Greenpeace_ITA', 'NNP'), (':', ':'), ('Rapallo', 'NNP'), (',', ','), ('Terracina', 'NNP'), (',', ','), ('Venezia', 'NNP'), ('.', '.'), ('In', 'IN'), ('alcuni', 'JJ'), ('casi', 'NN'), (',', ','), ('purtroppo', 'NN'), (',', ','), ('contiamo', 'NN'), ('le', 'NN'), ('vittime', 'NN'), ('di', 'NN'), ('questi', 'NN'), ('eventi', 'NN'), ('estremi', 'NN'), ('.', '.'), ('I', 'PRP'), ('#', '#'), ('cambiamenticlim\u2026', 'NN')]"
+        },
+        {
+            "text": "RT @elenabulla1: MILIONI SPESI PER AVERE VENEZIA ALLAGATA\nIL MOSE a VENEZIA 29/10/2018\nuna situazione surreale \n\"Mare d'inverno\" https://t.\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:32:31 +0000 2018",
+            "urls": "['https://t.']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('elenabulla1', 'NN'), (':', ':'), ('MILIONI', 'NNP'), ('SPESI', 'NNP'), ('PER', 'NNP'), ('AVERE', 'NNP'), ('VENEZIA', 'NNP'), ('ALLAGATA', 'NNP'), ('IL', 'NNP'), ('MOSE', 'NNP'), ('a', 'DT'), ('VENEZIA', 'NNP'), ('29/10/2018', 'CD'), ('una', 'JJ'), ('situazione', 'NN'), ('surreale', 'NN'), (\"''\", \"''\"), ('Mare', 'NNP'), (\"d'inverno\", 'NN'), (\"''\", \"''\"), ('WEBSITE\u2026', 'NNP')]"
+        },
+        {
+            "text": "RT @repubblica: Da Venezia a Dublino. Tra horror e divertimento, la guida alla vacanza stile Halloween https://t.co/rAt8FN6Ldh",
+            "language": "en",
+            "time": "Tue Oct 30 18:32:35 +0000 2018",
+            "urls": "['https://t.co/rAt8FN6Ldh']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('repubblica', 'NN'), (':', ':'), ('Da', 'NNP'), ('Venezia', 'NNP'), ('a', 'DT'), ('Dublino', 'NNP'), ('.', '.'), ('Tra', 'NNP'), ('horror', 'NN'), ('e', 'NN'), ('divertimento', 'NN'), (',', ','), ('la', 'FW'), ('guida', 'FW'), ('alla', 'NN'), ('vacanza', 'NN'), ('stile', 'NN'), ('Halloween', 'NNP'), ('WEBSITE', 'NNP')]"
+        },
+        {
+            "text": "RT @vvoxonline: #Venezia da record. Ma non per #acquaalta: per l'inganno #Mose\ndi @cianciostefano\n\n&gt;&gt;https://t.co/YN6LsQpE8t https://t.co/D\u2026",
+            "language": "en",
+            "time": "Tue Oct 30 18:32:36 +0000 2018",
+            "urls": "['https://t.co/YN6LsQpE8t', 'https://t.co/D']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('RT', 'NNP'), ('@', 'NNP'), ('vvoxonline', 'NN'), (':', ':'), ('#', '#'), ('Venezia', 'NNP'), ('da', 'NN'), ('record', 'NN'), ('.', '.'), ('Ma', 'NNP'), ('non', 'JJ'), ('per', 'IN'), ('#', '#'), ('acquaalta', 'NN'), (':', ':'), ('per', 'IN'), (\"l'inganno\", 'NN'), ('#', '#'), ('Mose', 'NNP'), ('di', 'FW'), ('@', 'NNP'), ('cianciostefano', 'NN'), ('&', 'CC'), ('gt', 'NN'), (';', ':'), ('&', 'CC'), ('gt', 'NN'), (';', ':'), ('WEBSITE', 'NNP'), ('WEBSITE\u2026', 'NNP')]"
+        },
+        {
+            "text": "Venezia, allagata la basilica di   San Marco:   \u00abIn 24 ore invecchiata di 20 anni\u00bb Foto https://t.co/JNGzQUaozZ https://t.co/tOVbjyHKcC",
+            "language": "en",
+            "time": "Tue Oct 30 18:33:46 +0000 2018",
+            "urls": "['https://t.co/JNGzQUaozZ', 'https://t.co/tOVbjyHKcC']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('Venezia', 'NNP'), (',', ','), ('allagata', 'NN'), ('la', 'NN'), ('basilica', 'NN'), ('di', 'VBZ'), ('San', 'NNP'), ('Marco', 'NNP'), (':', ':'), ('\u00ab', 'NN'), ('In', 'IN'), ('24', 'CD'), ('ore', 'NN'), ('invecchiata', 'NNS'), ('di', 'VBP'), ('20', 'CD'), ('anni', 'JJ'), ('\u00bb', 'NNP'), ('Foto', 'NNP'), ('WEBSITE', 'NNP'), ('WEBSITE', 'NNP')]"
+        },
+        {
+            "text": "\"\u201cIn un solo giorno la basilica \u00e8\u00a0invecchiata\u00a0di vent\u2019anni, e forse sono ottimista\u201d. \u00c8 la denuncia di\u00a0Carlo Tesseri\u2026 https://t.co/S5bLBHjL37",
+            "language": "en",
+            "time": "Tue Oct 30 18:33:48 +0000 2018",
+            "urls": "['https://t.co/S5bLBHjL37']",
+            "fav": "0",
+            "retweets": "0",
+            "parseTags": "[('``', '``'), ('\u201c', 'NN'), ('In', 'IN'), ('un', 'JJ'), ('solo', 'NN'), ('giorno', 'NN'), ('la', 'NN'), ('basilica', 'NN'), ('\u00e8', 'NNP'), ('invecchiata', 'NN'), ('di', 'NN'), ('vent', 'NN'), ('\u2019', 'NNP'), ('anni', 'NN'), (',', ','), ('e', 'JJ'), ('forse', 'FW'), ('sono', 'NN'), ('ottimista', 'NN'), ('\u201d', 'NNP'), ('.', '.'), ('\u00c8', 'NNP'), ('la', 'FW'), ('denuncia', 'FW'), ('di', 'FW'), ('Carlo', 'NNP'), ('Tesseri\u2026', 'NNP'), ('WEBSITE', 'NNP')]"
+        },
+        {
+            'text': 'RT @gq_gianni: Non siamo a Venezia ma Roma  stamane, dopo un brevissimo temporale, ecco la situazione a GregorioVII nei pressi di San Pietr…',
+            'language': 'en',
+            'time': 'Tue Oct 30 17:10:50 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': "[('RT', 'NNP'), ('@', 'NNP'), ('gq_gianni', 'NN'), (':', ':'), ('Non', 'NNP'), ('siamo', 'VBZ'), ('a', 'DT'), ('Venezia', 'NNP'), ('ma', 'NN'), ('Roma', 'NNP'), ('stamane', 'NN'), (',', ','), ('dopo', 'NN'), ('un', 'JJ'), ('brevissimo', 'NN'), ('temporale', 'NN'), (',', ','), ('ecco', 'NN'), ('la', 'NN'), ('situazione', 'VBD'), ('a', 'DT'), ('GregorioVII', 'NNP'), ('nei', 'NN'), ('pressi', 'NN'), ('di', 'VBZ'), ('San', 'NNP'), ('Pietr…', 'NNP')]"
+    }, {
+            'text': "RT @Lettera43: A Venezia l'acqua è entrata nella Basilica danneggiandola. Barche distrutte a Rapallo dopo la mareggiata. Undici vittime in…",
+            'language': 'en',
+            'time': 'Tue Oct 30 17:11:34 +0000 2018',
+            'urls': '[]',
+            'fav': '0',
+            'retweets': '0',
+            'parseTags': '[(\'RT\', \'NNP\'), (\'@\', \'NNP\'), (\'Lettera43\', \'NNP\'), (\':\', \':\'), (\'A\', \'DT\'), (\'Venezia\', \'NNP\'), ("l\'acqua", \'NN\'), (\'è\', \'NNP\'), (\'entrata\', \'VBZ\'), (\'nella\', \'NN\'), (\'Basilica\', \'NNP\'), (\'danneggiandola\', \'NN\'), (\'.\', \'.\'), (\'Barche\', \'NNP\'), (\'distrutte\', \'VBD\'), (\'a\', \'DT\'), (\'Rapallo\', \'NNP\'), (\'dopo\', \'NN\'), (\'la\', \'NN\'), (\'mareggiata\', \'NN\'), (\'.\', \'.\'), (\'Undici\', \'NNP\'), (\'vittime\', \'NN\'), (\'in…\', \'NN\')]'
+    }]
+}

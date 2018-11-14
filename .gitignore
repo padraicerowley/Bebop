@@ -1,0 +1,5 @@
+
+*.xml
+*.xml
+*.pyc
+venv/Lib/site-packages/beautifulsoup4-4.6.3.dist-info/INSTALLER
