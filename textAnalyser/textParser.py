@@ -15,7 +15,7 @@ class parseWriter():
     blockCount = 1
 
     fob = open(
-        found_msg_path+'.json',
+        found_msg_path+ str(time.ctime().replace(" ", "_").replace(":","")) +'.json',
         'wb')
     output = {"tweets": []}
 
@@ -23,10 +23,10 @@ class parseWriter():
     def newBlock(self,tweetText,date,fv,rt):
         self.fob.write(str(self.output).encode('utf-8'))
         self.fob.close()
-        print("new block:" + str(self.blockCount))
+        print("new block:" + str(time.ctime()))
         self.blockCount +=1
         self.fob = open(
-            self.found_msg_path + str(self.blockCount)+'.json',
+            self.found_msg_path + str(time.ctime())+'.json',
             'wb')
         self.output = {"tweets": []}
         self.addTweet(tweetText,date,fv,rt)

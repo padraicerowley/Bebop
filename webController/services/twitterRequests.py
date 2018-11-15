@@ -13,7 +13,7 @@ class MyStreamer(TwythonStreamer):
     count=0
     def on_success(self, data):
         if 'text' in data:
-            if (self.tweetCounter < 500):
+            if (self.tweetCounter < 2000):
                 self.writer.addTweet(str(data['text']),str(data['created_at']),str(data['favorite_count']),str(data['retweet_count']))
                 self.tweetCounter += 1
                 self.count+=1
@@ -27,6 +27,9 @@ class MyStreamer(TwythonStreamer):
         if(str(status_code) == "420"):
             print("waiting 15 mins for rate limiting")
             time.sleep(900)
+        else:
+            getTwitterStream("it")
+
 
 
         # Want to stop trying to get data because of the error?

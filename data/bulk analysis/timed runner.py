@@ -1,5 +1,6 @@
-import webController.services.twitterRequests
+import webController.services.twitterRequests as streamer
+import time, threading
 
 
 
-for()
+streamer.getTwitterStream("it")
