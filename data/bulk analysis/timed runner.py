@@ -3,4 +3,5 @@ import time, threading
 
 
 
-streamer.getTwitterStream("it")
+#streamer.getTwitterData("alluvione")
+streamer.getTwitterStream("en")

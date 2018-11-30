@@ -13,7 +13,7 @@ class MyStreamer(TwythonStreamer):
     count=0
     def on_success(self, data):
         if 'text' in data:
-            if (self.tweetCounter < 100):
+            if (self.tweetCounter < 300):
                 self.writer.addTweet(str(data['text']),str(data['created_at']),str(data['favorite_count']),str(data['retweet_count']))
                 self.tweetCounter += 1
                 self.count+=1
@@ -26,7 +26,7 @@ class MyStreamer(TwythonStreamer):
         print(status_code)
         if(str(status_code) == "420"):
             print("waiting 15 mins for rate limiting")
-            time.sleep(900)
+            time.sleep(30)
         else:
             getTwitterStream("it")
 
@@ -38,14 +38,13 @@ class MyStreamer(TwythonStreamer):
 
 
 def getTwitterData(searchTerm):
-    python_tweets = Twython(credentials.twitterCredentials.consumerKey, credentials.twitterCredentials.consumerSecret)
+    python_tweets = MyStreamer(credentials.twitterCredentials.consumerKey, credentials.twitterCredentials.consumerSecret,credentials.twitterCredentials.accessToken,credentials.twitterCredentials.accessTokenSecret)
 
-    tweets = python_tweets.filter(q=searchTerm, result_type='popular')
+    tweets = python_tweets.statuses.filter(q=searchTerm, result_type='popular')
     output = json.dumps(tweets)
     return output
 
 def getTwitterStream(lang):
-    #python_tweets = Twython(credentials.twitterCredentials.consumerKey, credentials.twitterCredentials.consumerSecret)
     python_tweets = MyStreamer(credentials.twitterCredentials.consumerKey, credentials.twitterCredentials.consumerSecret,credentials.twitterCredentials.accessToken,credentials.twitterCredentials.accessTokenSecret)
 
     tweets = python_tweets.statuses.filter( language = 'it',track='twitter')
