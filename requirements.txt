@@ -26,7 +26,7 @@ requests-oauthlib==1.0.0
 scipy==1.1.0
 six==1.11.0
 twython==3.7.0
-urllib3==1.23
+urllib3==1.26.5
 Werkzeug==0.14.1
 wrapt==1.10.11
 langdetect==1.0.7
